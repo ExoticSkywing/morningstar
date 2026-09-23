@@ -43,7 +43,7 @@ export function configureEmotionboard(html) {
   container.attrs.find(attr => attr.name === 'class').value = 'container emotion-board';
   container.childNodes = parseFragment(`
     <header class="emotion-heading">
-      <div><span class="emotion-eyebrow">NEBULUXE / MOODBOARD</span><h2 id="emotionboard-heading">情绪板</h2><p>把喜欢的瞬间，留在自己的宇宙。</p></div>
+      <div><span class="emotion-eyebrow">NEBULUXE / FRAGMENTS</span><h2 id="emotionboard-heading">浪漫切片</h2><p>把喜欢的瞬间，留在自己的宇宙。</p></div>
       <div class="emotion-seal" aria-hidden="true"><img src="/brand/nebuluxe-mark.svg" width="40" height="40" alt=""><span>浪漫 · 美好 · 自由</span></div>
     </header>
     <div class="emotion-grid">${[0, 2, 4].map(start => `<div class="emotion-column">${emotionboard.slice(start, start + 2).map((item, index) => figure(item, start + index)).join('')}</div>`).join('')}</div>
@@ -53,7 +53,7 @@ export function configureEmotionboard(html) {
   // Keep the native section / scroll target; only its inner content changes.
   for (const node of nodes.filter(node => node.tagName === 'a' && ['#projects', '/#projects'].includes(get(node, 'href')))) {
     const rename = child => {
-      if (child.nodeName === '#text' && ['产品', '项目'].includes(child.value.trim())) child.value = '情绪板';
+      if (child.nodeName === '#text' && ['产品', '项目'].includes(child.value.trim())) child.value = '浪漫切片';
       child.childNodes?.forEach(rename);
     };
     rename(node);

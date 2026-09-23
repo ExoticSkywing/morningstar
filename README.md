@@ -53,7 +53,7 @@ iOS 音频测试使用 Vite 开发／预览服务或支持字节范围请求的�
 
 ### 页面与品牌
 
-情绪板位于 `#projects`，素材来自 `public/emotionboard/`。`scripts/emotionboard-content.mjs` 维护素材、文案和构建时模板，`src/morningstar/emotionboard.css` 维护错落排版。三个动态片段使用静音 H.264 视频及 WebP 封面；只在进入视野时加载／播放，离屏、后台暂停，减少动态效果偏好下默认展示封面，播放按钮仍可手动开启。它与探索星群的模式独立。
+「浪漫切片」情绪板位于 `#projects`，素材来自 `public/emotionboard/`。`scripts/emotionboard-content.mjs` 维护素材、文案和构建时模板，`src/morningstar/emotionboard.css` 维护错落排版。三个动态片段使用静音 H.264 视频及 WebP 封面；只在进入视野时加载／播放，离屏、后台暂停，减少动态效果偏好下默认展示封面，播放按钮仍可手动开启。它与探索星群的模式独立。
 
 更换原始视频后运行 `npm run media:emotionboard`（需要 FFmpeg）生成 `loops/` 和 `posters/`。原文件保留，网站仅播放去除音轨的版本，避免与 BGM 混音。
 
