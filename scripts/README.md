@@ -8,9 +8,12 @@
 | `npm run brand:generate` | 从共用字形数据生成网站暖白、深墨色艺术字 SVG。 |
 | `npm run check` | 检查首页、详情页及样式引用的本地资源与链接是否存在。 |
 | `npm run test:audio` | 检查 BGM 自动播放受限后的恢复、触摸触发、静音记忆及生命周期；使用 Node.js 标准测试工具。 |
+| `npm run test:portfolio` | 检查探索星群的两种模式，确保精简模式不保留筛选／作品节点，完整模式保留原始功能数据。 |
 | `python scripts/test_server.py` | 验证可选 Python 预览服务的路由和路径边界；仅使用标准库。 |
 
 `nebuluxe-home.mjs` 由导入脚本调用，维护首页标志、留白布局和社交链接状态。
+
+`portfolio-content.mjs` 在 Vite 构建时读取 `site.config.js` 的模式并处理首页模板；不覆盖原始 `content.html`。
 
 以下文件保留为原 Morningstar 镜像的历史工具，不参与当前 Vite 启动、构建或检查流程：
 

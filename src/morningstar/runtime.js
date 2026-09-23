@@ -33,7 +33,7 @@ function loadScript(src) {
   return promise;
 }
 
-export async function initializeMorningstar(root, onReady) {
+export async function initializeMorningstar(root, onReady, portfolioMode = 'origin') {
   const cleanup = [];
   const listen = (target, type, fn, options) => {
     target.addEventListener(type, fn, options);
@@ -154,7 +154,9 @@ export async function initializeMorningstar(root, onReady) {
   if (window.MorningStarScene) window.onMorningStarSceneLoaded();
   else await loadScript(`${MODELS}@main/offbrand-morningstar.iife.007b.js`);
 
-  await loadScript('/vendor/cdn.jsdelivr.net/npm/@finsweet/attributes-cmsfilter@1/cmsfilter.js');
+  if (portfolioMode === 'origin') {
+    await loadScript('/vendor/cdn.jsdelivr.net/npm/@finsweet/attributes-cmsfilter@1/cmsfilter.js');
+  }
 
   const $ = window.jQuery;
   $(root).find('a, .hov__on, .port_item').on('mouseenter.journey', () => {

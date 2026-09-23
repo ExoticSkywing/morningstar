@@ -116,7 +116,8 @@
 @media (max-width: 700px) {
   .nav {
     left: auto;
-    right: 1.5rem;
+    top: var(--corner-control-top);
+    right: calc(var(--corner-control-right) + 52px);
     transform: none;
   }
 
@@ -126,6 +127,8 @@
 
   .menuButton {
     display: flex;
+    width: 44px;
+    height: 44px;
   }
 
   .dropdown {

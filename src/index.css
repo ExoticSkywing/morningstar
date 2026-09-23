@@ -8,6 +8,15 @@
    every open/close. */
 html {
   scrollbar-gutter: stable;
+  --corner-control-top: calc(18px + env(safe-area-inset-top));
+  --corner-control-right: max(24px, env(safe-area-inset-right));
+}
+
+@media (max-width: 767px) {
+  html {
+    --corner-control-top: calc(16px + env(safe-area-inset-top));
+    --corner-control-right: max(16px, env(safe-area-inset-right));
+  }
 }
 
 body {

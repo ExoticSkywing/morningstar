@@ -53,6 +53,18 @@ iOS 音频测试使用 Vite 开发／预览服务或支持字节范围请求的�
 
 ### 页面与品牌
 
+探索星群模块由根目录 `site.config.js` 配置：
+
+```js
+export default {
+  portfolioMode: 'nebuluxe', // 'nebuluxe' 或 'origin'
+};
+```
+
+`nebuluxe` 为默认模式，居中显示“探索星群”、原短句和搜索输入框，移除分类、更多、重置及作品列表，不加载 CMS 筛选脚本。该模式暂不接入作品数据或搜索结果服务；输入不会提交到外部。`origin` 恢复完整作品和原有搜索／分类筛选，标题同样标识为“探索星群”。这项配置只控制该模块，其他页面和品牌保持当前设计。
+
+开发时修改配置会重启 Vite 并刷新页面；发布时重新运行 `npm run build`。模式在构建时应用于原始生成模板，重新导入镜像也不会覆盖配置。运行 `npm run test:portfolio` 检查两种模式及原生滚动节点的保留。
+
 日常修改 React 源码、`src/morningstar/runtime.js` 和 `integration.css`。首页 DOM 定制写入 `scripts/nebuluxe-home.mjs`，不要直接修改生成的 `src/morningstar/content.html` 或 `source.css`。
 
 更新镜像输入后，运行 `npm run import:morningstar`，再运行 `npm run check` 和 `npm run build`。导入会覆盖 `public/morningstar/`、`public/vendor/` 及上述生成文件，并重新应用 NEBULUXE 标志、留白布局和禁用社交链接。`site/` 是原始镜像输入，`public/` 是当前可部署副本，两者有意同时保留。
