@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex" />
+  <title>NEBULUXE · 自由星云</title>
+  <link rel="icon" href="/nebuluxe.svg" type="image/svg+xml" />
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #101113; color: #f2f1ee; font-family: Arial, 'Microsoft YaHei', sans-serif; }
+    main { max-width: 1440px; min-height: 100svh; margin: auto; padding: 48px 64px 32px; display: flex; flex-direction: column; }
+    header, footer { display: flex; justify-content: space-between; gap: 24px; font-size: 12px; color: #939396; }
+    .header-wordmark { width: 138px; height: auto; }
+    .identity { flex: 1; min-height: 490px; display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 56px; }
+    .symbol { display: grid; place-items: center; }
+    .symbol img { width: min(100%, 296px); height: auto; }
+    .wordmark { margin: 0 0 32px; }
+    .wordmark img { display: block; width: 100%; max-width: 490px; height: auto; }
+    .meaning { font-size: 14px; color: #bdbab7; line-height: 2.2; margin: 0; }
+    .usage { display: flex; align-items: center; justify-content: space-between; gap: 36px; padding: 28px 0; border-top: 1px solid #2b2c2e; border-bottom: 1px solid #2b2c2e; }
+    .lockup { display: flex; align-items: center; gap: 12px; font-size: 24px; }
+    .lockup .mark { width: 56px; height: 56px; }
+    .lockup .type { width: 172px; height: auto; }
+    .sizes { display: flex; align-items: center; gap: 28px; }
+    .paper { display: grid; place-items: center; width: 72px; height: 72px; background: #f2f1ee; }
+    .paper img { width: 48px; height: 48px; }
+    footer { padding-top: 24px; line-height: 1.8; }
+    a { color: #bdbab7; text-underline-offset: 4px; }
+    @media (max-width: 650px) {
+      main { padding: 24px; }
+      .identity { grid-template-columns: 1fr; gap: 24px; padding: 48px 0; text-align: center; }
+      .symbol img { width: 190px; }
+      .wordmark { margin-bottom: 20px; }
+      .usage { flex-wrap: wrap; }
+      header, footer { font-size: 10px; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header><img class="header-wordmark" src="/brand/nebuluxe-wordmark.svg" alt="NEBULUXE" width="418" height="48" /><span>自由星云 · Cyber lettering / 02</span></header>
+    <section class="identity" aria-label="NEBULUXE 品牌标志">
+      <div class="symbol"><img src="/brand/nebuluxe-mark.svg" alt="舒展的四角星芒与未闭合的星云弧线" width="296" height="296" /></div>
+      <div><h1 class="wordmark"><img src="/brand/nebuluxe-wordmark.svg" alt="NEBULUXE" width="418" height="48" /></h1><p class="meaning">NEBULA + LUXE<br />浪漫宇宙，向自由舒展。</p></div>
+    </section>
+    <section class="usage" aria-label="标志在不同尺寸和背景的应用">
+      <div class="lockup"><img class="mark" src="/brand/nebuluxe-mark.svg" alt="" width="56" height="56" /><img class="type" src="/brand/nebuluxe-wordmark.svg" alt="NEBULUXE" width="418" height="48" /></div>
+      <div class="sizes" aria-label="48、32、16 像素尺寸及浅色背景">
+        <img src="/brand/nebuluxe-mark.svg" alt="" width="48" height="48" />
+        <img src="/brand/nebuluxe-mark.svg" alt="" width="32" height="32" />
+        <img src="/brand/nebuluxe-mark.svg" alt="" width="16" height="16" />
+        <div class="paper"><img src="/brand/nebuluxe-mark-dark.svg" alt="浅色背景应用" width="48" height="48" /></div>
+      </div>
+    </section>
+    <footer><span>星芒 · 美好 &nbsp; / &nbsp; 星云 · 浪漫 &nbsp; / &nbsp; 开放轨迹 · 自由</span><a href="/#hero1">在页面中查看 ↗</a></footer>
+  </main>
+</body>
+</html>

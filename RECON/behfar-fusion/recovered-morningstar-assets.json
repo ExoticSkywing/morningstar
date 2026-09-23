@@ -1,0 +1,23 @@
+[
+  {
+    "status": "fulfilled",
+    "value": {
+      "url": "/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/65d74df83c908f59eb162228_jpeg-optimizer_ultiverse%20(3).png",
+      "bytes": 6791
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "url": "/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6373afa2312b06ee138c5255_ca%20(2).png",
+      "bytes": 9299
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "url": "/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/622f1eb1fc363c70dde00576_elrond%20tower%20(1).png",
+      "bytes": 40435
+    }
+  }
+]

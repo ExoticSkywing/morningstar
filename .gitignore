@@ -14,3 +14,18 @@ RECON/*.log
 
 # Temporary mirror working tree.
 mirror-base/
+
+# Integrated Vite app.
+node_modules/
+dist/
+*.log
+.env
+.env.*
+!.env.example
+RECON/behfar-fusion/upstream/.git/
+RECON/nebuluxe-qa/
+
+# Complete brand kit is maintained in its own private repository.
+/brand-kit/
+/NEBULUXE-Brand-Kit/
+/NEBULUXE-Brand-Kit*.zip

@@ -1,0 +1,57 @@
+[
+  {
+    "file": "src/utils/scenes/stars.js",
+    "matchesUpstream": true,
+    "sha256": "CC6CBCCCC3F8157ED02724CE4A5E7AEF55C579585361764ADCD87AA2ABB541FE"
+  },
+  {
+    "file": "src/utils/scenes/galaxies.js",
+    "matchesUpstream": true,
+    "sha256": "F2324CCC3FA525CF8F40B2BA834806ED16CBA4C6467DC78205B4DABCB52754DC"
+  },
+  {
+    "file": "src/utils/scenes/nebulas.js",
+    "matchesUpstream": true,
+    "sha256": "96195D208221F00B6FECE7F3DFB54166ED120C714328BE8DC40DC1F62D45914B"
+  },
+  {
+    "file": "src/utils/scenes/smoke.js",
+    "matchesUpstream": true,
+    "sha256": "463C2808DF19C31E303CD045D9752428BA65A861BC6398DE3BCCF8FE90FABC55"
+  },
+  {
+    "file": "src/utils/shaders/shootingStar.js",
+    "matchesUpstream": true,
+    "sha256": "AA4F9D78CABB1B349096BD18993C4C86EE1AB3DA0E41B4E0F65D04EEE45F7617"
+  },
+  {
+    "file": "src/components/ShootingStarIntro.jsx",
+    "matchesUpstream": true,
+    "sha256": "B2615FCFCD84AACD84D07770E6A87490539D266DC2007BB3A6F1CF6A35CBE173"
+  },
+  {
+    "file": "src/components/CaptionGravity.jsx",
+    "matchesUpstream": true,
+    "sha256": "F1ED7B41BC430DCF7F97055C462638B4A8A0179EA9F3A984DB0C3E53D2D08690"
+  },
+  {
+    "file": "src/components/Preloader.jsx",
+    "matchesUpstream": true,
+    "sha256": "D96F4A3A8FED42D6E1C121958CF8DABCB90B0226C30D39399AA1214C80E77097"
+  },
+  {
+    "file": "public/png/smoke.png",
+    "matchesUpstream": true,
+    "sha256": "CF561A871575847E41CC8D8DF6831068613B485936CB034CF6BB3ADC8B678513"
+  },
+  {
+    "file": "public/fonts/Monoton-Regular.ttf",
+    "matchesUpstream": true,
+    "sha256": "1565B395F454D5C2642D0F411030051E7342FBAF6D5BFC5DA5899C47ECD3511E"
+  },
+  {
+    "file": "public/fonts/Audiowide-Regular.ttf",
+    "matchesUpstream": true,
+    "sha256": "434A720871336D359378BEFF5EBFF3F9FD654D958693D272C7C6F2E271C7E41C"
+  }
+]

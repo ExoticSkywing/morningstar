@@ -1,0 +1,24 @@
+{
+  "root": "D:/repo/morningstar",
+  "development": "http://127.0.0.1:5173/",
+  "production": "http://127.0.0.1:44116/",
+  "install": "npm ci passed; 0 vulnerabilities",
+  "build": "passed",
+  "localContentLinks": 35,
+  "missingLocalContentLinks": 0,
+  "notes": "Both original reference directories and all combined application sources/assets are inside the repository. No runtime/config dependency on the temporary project.",
+  "browserChecks": [
+    "946×706 actual viewport: uncluttered sphere / edge wordmark / lower CTA",
+    "390×844 phone: no horizontal overflow, CTA inside viewport",
+    "1440×900 desktop: clean sphere and chapter navigation",
+    "Desktop → phone → desktop camera endpoints resize correctly",
+    "Explore CTA reaches About; wordmark returns to hero0",
+    "Morningstar menu opens and Escape closes",
+    "Python legacy command serves the integrated production build"
+  ],
+  "finalRuntimeErrors": 0,
+  "productionBuild": {
+    "jsKb": 1340.75,
+    "gzipKb": 377.57
+  }
+}

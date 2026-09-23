@@ -1,0 +1,50 @@
+[
+  {
+    "level": "warn",
+    "message": "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "timestamp": "2026-09-22T21:25:12.094Z",
+    "url": "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-CBILGRLZ.js?v=4295906e"
+  },
+  {
+    "level": "warn",
+    "message": "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "timestamp": "2026-09-22T21:25:12.098Z",
+    "url": "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-CBILGRLZ.js?v=4295906e"
+  },
+  {
+    "level": "warn",
+    "message": "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "timestamp": "2026-09-22T21:25:52.386Z",
+    "url": "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-CBILGRLZ.js?v=4295906e"
+  },
+  {
+    "level": "warn",
+    "message": "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "timestamp": "2026-09-22T21:25:52.386Z",
+    "url": "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-CBILGRLZ.js?v=4295906e"
+  },
+  {
+    "level": "warn",
+    "message": "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "timestamp": "2026-09-22T21:28:23.989Z",
+    "url": "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-CBILGRLZ.js?v=4295906e"
+  },
+  {
+    "level": "warn",
+    "message": "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "timestamp": "2026-09-22T21:28:24.024Z",
+    "url": "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-CBILGRLZ.js?v=4295906e"
+  },
+  {
+    "level": "warn",
+    "message": "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "timestamp": "2026-09-22T21:28:58.325Z",
+    "url": "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-CBILGRLZ.js?v=4295906e"
+  },
+  {
+    "level": "warn",
+    "message": "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.",
+    "timestamp": "2026-09-22T21:28:58.338Z",
+    "url": "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-CBILGRLZ.js?v=4295906e"
+  }
+]

@@ -1,0 +1,88 @@
+#hero1 {
+  position: relative;
+  z-index: 0;
+  background: transparent !important;
+  overflow: visible;
+  color: #fff;
+}
+#hero1 .viewport { z-index: -1; }
+#hero1 .ms-title-reveal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  opacity: 0;
+  transform: translateY(22px);
+}
+#hero1 .ms-chrome-reveal { opacity: 0; }
+#hero1[data-before-entry="true"] .container.is--hero {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: var(--journey-content-width, 100%);
+}
+#hero1 .hero_poem { font-family: 'Punta', Georgia, serif; }
+#hero1 .preloader, #hero1 .w-webflow-badge { display: none !important; }
+body.morningstar-menu-open { overflow: hidden; }
+
+/* The sphere is the focal point. Keep identity and navigation at the edges. */
+#hero1 .brand_wrap.nebuluxe-brand,
+#hero1 .f_navlink.nebuluxe-brand {
+  display: flex;
+  width: auto;
+  min-height: 56px;
+  max-height: none;
+  flex: none;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  transition: opacity 160ms ease-out;
+}
+#hero1 .nebuluxe-social-disabled { cursor: default; }
+#hero1 .nebuluxe-mark {
+  display: block;
+  width: 56px;
+  height: 56px;
+  flex: none;
+}
+#hero1 .nebuluxe-wordmark {
+  display: block;
+  width: 172px;
+  height: auto;
+  flex: none;
+}
+#hero1 .container.is--hero {
+  justify-content: flex-end;
+  padding-top: 0;
+  padding-bottom: max(64px, 9svh, env(safe-area-inset-bottom));
+}
+#hero1 .nebuluxe-explore .btn_wrap.is--h {
+  min-height: 44px;
+  margin: 0;
+  padding: 12px 16px;
+  font-size: 13px;
+  color: #e6e4e9;
+}
+#hero1 .nebuluxe-explore .btn_txt {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  font: inherit;
+}
+#hero1 .nebuluxe-explore-arrow { font-size: 18px; }
+#hero1 .nebuluxe-explore .btn_circle { display: none; }
+#hero1 .nebuluxe-explore a:focus-visible,
+#hero1 .nebuluxe-brand:focus-visible {
+  outline: 1px solid #d3c6e2;
+  outline-offset: 6px;
+}
+#hero1 .hud_progress { display: none; }
+@media (max-width: 767px) {
+  #hero1 .container.is--hero { padding-bottom: max(48px, 8svh, env(safe-area-inset-bottom)); }
+  #hero1 .brand_wrap.nebuluxe-brand,
+  #hero1 .f_navlink.nebuluxe-brand { min-height: 48px; gap: 8px; }
+  #hero1 .nebuluxe-mark { width: 48px; height: 48px; }
+  #hero1 .nebuluxe-wordmark { width: 138px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  #hero1 .ms-title-reveal { transform: none !important; }
+}

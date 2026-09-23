@@ -1,0 +1,32 @@
+/* The Monoton/Audiowide @font-face rules live in public/index.html, not
+   here - see that file's <style> block for why. */
+
+/* Reserves the scrollbar's track permanently, whether or not it's actually
+   showing at a given moment (e.g. while ProjectLens locks body scroll via
+   overflow: hidden). Without this, the page's content width shifts by the
+   scrollbar's width every time it's hidden/restored - a visible flicker on
+   every open/close. */
+html {
+  scrollbar-gutter: stable;
+}
+
+body {
+  margin: 0;
+  font-family:
+    -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
+    'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}

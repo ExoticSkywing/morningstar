@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 418 48" fill="#f2f1ee">
+  <title>NEBULUXE</title>
+  <g transform="translate(8 4) skewX(-8)" fill-rule="evenodd">
+    <path transform="translate(0)" d="M0 40V0H7L34 27V0H42V40H35L8 13V40Z"/>
+    <path transform="translate(54)" d="M0 0H42L35 7H0ZM0 16H34L27 23H0ZM0 33H42L35 40H0Z"/>
+    <path transform="translate(106)" d="M0 0H33L41 8V16L36 20L42 26V32L34 40H0ZM8 7V16H30L33 13V10L30 7ZM8 23V33H31L34 30V26L31 23Z"/>
+    <path transform="translate(160)" d="M0 0H8V29L12 33H30L34 29V0H42V33L35 40H7L0 33Z"/>
+    <path transform="translate(214)" d="M0 0H8V33H39L32 40H0Z"/>
+    <path transform="translate(260)" d="M0 0H8V29L12 33H30L34 29V0H42V33L35 40H7L0 33Z"/>
+    <path transform="translate(314)" d="M0 0H10L21 14L32 0H42L26 20L42 40H32L21 26L10 40H0L16 20Z"/>
+    <path transform="translate(366)" d="M0 0H42L35 7H0ZM0 16H34L27 23H0ZM0 33H42L35 40H0Z"/>
+  </g>
+</svg>

@@ -1,3 +1,5 @@
+> 历史记录：本报告针对迁移前的 Morningstar 镜像。当前 NEBULUXE 首页已替换品牌并清空社交链接；当前入口和检查方式见 README.md。
+
 # Clone Audit · Morningstar
 
 ## 结论

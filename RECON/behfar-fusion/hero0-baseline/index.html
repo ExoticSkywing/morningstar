@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="Behfar Behzad — an interactive universe, from galaxies to drifting smoke. Local hero study." />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>BeHFaR | Hero</title>
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="preload" href="/fonts/Audiowide-Regular.ttf" as="font" type="font/ttf" crossorigin />
+    <link rel="preload" href="/fonts/Monoton-Regular.ttf" as="font" type="font/ttf" crossorigin />
+    <link rel="preload" href="/png/smoke.png" as="image" />
+    <style>
+      @font-face { font-family: 'Monoton'; src: url('/fonts/Monoton-Regular.ttf') format('truetype'); font-weight: normal; font-style: normal; font-display: swap; }
+      @font-face { font-family: 'Audiowide'; src: url('/fonts/Audiowide-Regular.ttf') format('truetype'); font-weight: normal; font-style: normal; font-display: swap; }
+      html, body { margin: 0; background: #000; }
+    </style>
+    <script>
+      if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+      window.scrollTo(0, 0);
+    </script>
+  </head>
+  <body>
+    <noscript>This interactive hero needs JavaScript and WebGL.</noscript>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

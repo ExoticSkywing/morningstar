@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  background: #000;
+  color: #fff;
+}
+
+.app {
+  position: relative;
+}
+
+.hero0Track { position: relative; }
+.hero0Stage {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  overflow: hidden;
+  pointer-events: none;
+}
+.hero0Chrome {
+  position: fixed;
+  inset: 0;
+  z-index: 30;
+  pointer-events: none;
+}

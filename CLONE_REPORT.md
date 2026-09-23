@@ -1,45 +1,42 @@
-# Morningstar Ventures · 复刻评估报告
+> 2026-09-23：当前正式项目为 nebuluxe，已迁入仓库根目录。hero1 中央文案已移除，新的品牌及布局说明见 MIGRATION.md。以下保留融合实现及当时的验证记录。
 
-## 结论
-- 复杂度: L5
-- 模式: 忠实复刻 / 部署资产镜像
-- 总体还原度: 当前证据为桌面/平板视觉 5/5、390px 4.5/5；WebGL、HUD、结构与页面高度对齐。
-- 适用: 授权展示、内部学习、继续内容爆改；由于上游没有开源许可证，不建议未经授权原样公开商用。
+# Combined site verification
 
-## 对比
-| 维度 | 原站 | 克隆站 | 结论 |
-|---|---|---|---|
-| 信息架构 | 首页 + brand/test + 110 个 portfolio + 5 个 products | sitemap 117 路由全镜像 | 对齐 |
-| 视觉语言 | 暗色 WebGL、科技 HUD、Punta/Simplon | 同源字体、资源、Three.js bundle | 高保真 |
-| 动效交互 | WebGL Canvas、滚动章节、筛选/加载 | 核心 runtime 本地化，hostname lock 已安全解除 | 运行 |
-| 响应式 | 1440/768/390 | DOM/Canvas/scrollHeight 一致 | 对齐 |
-| 内容 | 原站结构与专名；首页采用新的诗意叙事 | 本地化并完成首页编辑性改造 | 结构保真 / 文案重构 |
-| 功能边界 | Webflow CMS/Analytics/Newsletter | CMS 展示镜像；追踪移除；Newsletter 本地成功态 | 安全隔离 |
+Verified on 2026-09-23 in the Codex Chromium browser. This report describes the active hero0 + hero1 integration. The earlier standalone hero0 report is archived in RECON/behfar-fusion/hero0-baseline/CLONE_REPORT.md.
 
-## 数字证据
-| 宽度 | Diff ratio | Mean abs diff | Visual score |
-|---:|---:|---:|---:|
-| 1440 | 0.004183 | 0.002871 | 5/5 |
-| 768 | 0.003630 | 0.002838 | 5/5 |
-| 390 | 0.021099 | 0.004652 | 4.5/5 |
+| Check | Observed result |
+| --- | --- |
+| Production build | npm run build passes. Main JS 1,344.77 kB / gzip 377.75 kB; CSS 100.49 kB / gzip 20.42 kB. Vite emits its expected chunk-size advisory. |
+| Single page | Both scenes share one DOM, one document scroll axis, four canvas elements and zero iframes. |
+| Desktop 1440×900 | hero1 top at scrollY 6228; smoke/title/chrome overlap, original Morningstar sticky hero, return to hero0 and continued About section verified. |
+| Tablet 768×1024 | hero1 top near 7086; title, sphere, navigation and subsequent layout visible; canvas height synchronized to 1024. |
+| Phone 390×844 | Production build: hero1 top near 5840; title and sphere visible; chapter menu, Morningstar menu, Escape and reverse handoff verified. |
+| Horizontal overflow | None at the three tested viewport sizes. |
+| Handoff geometry | Incoming hero container remains at viewport top while changing from fixed to sticky. Title rises by at most 22px while fading in. No second loading screen. |
+| Reverse and round trip | hero1 → purple smoke → hero0 → top; hero0 opacity and interaction restore, Morningstar hides and pauses behind it. |
+| Page-load lifecycle | Cached production load reveals Morningstar heading and nav to opacity 1 / blur 0. Native IX2_PAGE_UPDATE resolves late script initialization. |
+| Main navigation | Direct #hero1, My Universe / Morningstar chapter buttons, logo return, Start Exploring and About → Portfolio validated. |
+| Menu | Original 3D / Webflow menu opens; Escape closes and returns focus to menu-toggle on desktop and phone. |
+| Portfolio | Search for MultiversX produces one matching card. Local detail page opens and renders its Chinese description. Original 30 homepage cards are retained without repeated pagination copies. |
+| Local routes | All 35 main-page local content links have matching files; RECON/behfar-fusion/fusion-link-checks.json. |
+| Resize | Render canvas matches viewport container after resize; no stale GPU buffer height. |
+| Runtime errors | No JavaScript errors or WebGL shader errors in the checked final pages. Native Three duplicate-instance and R3F Clock deprecation warnings remain. |
+| Source project | D:/repo/morningstar git status remains clean. |
 
-## 已知缺口
-- 原站当前也会为一个不存在/无效的 `elrond.glb` 输出 GLTF parse console error；克隆保留同样表现，核心 `sphere.glb` 和 `morningStar.glb` 均返回 200，Canvas 正常渲染。
-- 通用 interaction-probe 的自动 safe-click 会触发此站的特殊全屏/菜单状态，导致 Chromium target 关闭，故未伪造 click probe 成功。
-- 未获得本机 WebKit/Firefox browser binaries；Safari/Firefox 需要后续真机/真引擎验收。
-- 原站公开 GitHub 仓库没有许可证声明。
+Screenshots: RECON/behfar-fusion/screenshots/fusion-*.png. Runtime DOM observations: RECON/behfar-fusion/fusion-checks.json (includes explicitly labeled development checkpoints as well as final production checks).
 
-## 中文版验收补充
-- 120 个 HTML 文件全部标记 `lang="zh-CN"`。
-- 已翻译：正文、导航、按钮、筛选、SEO、表单状态、placeholder、aria-label、alt。
-- 专名门禁：从只读原始 HTML 自动生成 109 个项目、50 个人名、30 个卡片名及行业术语白名单；逐页集合一致性通过。
-- 已修复机翻破坏：`James Zhang`、`Sergey Gorbunov`、`David Johansson`、`Simon Harman`、`Flavian Manea`、`Avalon`、`Cross The Ages` 等恢复英文。
-- 已修复：109 页孤立 `s`、`Please wait...`、融资轮次、`Token / Equity` 与术语大小写/粘连。
-- 有意保留：品牌、公司/项目/人名、Web3/DeFi/AI/NFT/Token/Equity 等标准专名。
-- 语义硬门禁 `scripts/audit_zh_semantics.py`: PASS（0 issues）。
-- 中文桌面/平板/移动端：Canvas 1、Page errors 0；控制台仍为原站同源 3 条 `elrond.glb` loader 错误。
-- 1440/768 页面高度与英文基线一致；390 为 10404px，无横向溢出。
-- 字体/断行修复后 1440 与 390 精确视口视觉检查通过，P0/P1 为 0。
+## Scope and limitations
 
-## 人类验收
-自动证据不能代替最终审美批准。请在 `http://45.8.22.65:44116/` 以你的真实设备最终验收首屏 WebGL、滚动节奏、菜单与移动端。
+The user's requested transition is a new composition built from the two original runtimes. Original Behfar camera, galaxies, particle text and smoke remain; the previous standalone fade-to-black ending is replaced by the Morningstar reveal. No Behfar constellation section is mounted.
+
+Responsive verification uses Chromium viewport emulation, not physical iOS/Android devices. No hardware frame-rate target is claimed. The author scenes use randomized particles, rotations and elapsed-time effects, so screenshots vary over time. Existing Morningstar external destinations remain external; newsletter behavior is a local demonstration.
+
+| Dimension | Assessment | Evidence |
+| --- | --- | --- |
+| Structure | 5/5 | Native shared DOM and chapter-relative scroll ownership. |
+| Visual preservation | 4.5/5 | Original shaders, models, textures and source content; intentional new handoff. |
+| Transition and interaction | 4.5/5 | Production forward / reverse checks, menu, chapter navigation and search. |
+| Responsive | 4/5 | Three Chromium sizes pass; physical device verification remains outside this run. |
+| Content replacement | N/A | Existing content preserved. |
+
+Final asset audit: 46 homepage media URLs checked. Three images absent from the source mirror were recovered from their original CDN URLs and saved locally in public/ and dist/. All three return HTTP 200 as image/png from the combined preview. Provenance: RECON/behfar-fusion/recovered-morningstar-assets.json.
