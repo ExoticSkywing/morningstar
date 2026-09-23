@@ -3,6 +3,7 @@ import Universe from './scenes/Universe';
 import Preloader from './components/Preloader';
 import SceneNav from './components/SceneNav';
 import ScrollIdleHint from './components/ScrollIdleHint';
+import BackgroundMusic from './components/BackgroundMusic';
 import useHeroJourney from './hooks/useHeroJourney';
 import Morningstar from './morningstar/Morningstar';
 import { HERO1_START_VH } from './utils/scenes/universeTiming';
@@ -54,6 +55,7 @@ export default function App() {
   return (
     <main className={styles.app} aria-label="NEBULUXE — 穿过星云的旅程">
       <h1 className="sr-only">NEBULUXE</h1>
+      <BackgroundMusic />
       <p className="sr-only">Scroll to travel through the galaxies and into the clouds.</p>
       {!preloaderDone && <Preloader onReveal={reveal} onComplete={complete} />}
       <section id="hero0" className={styles.hero0Track} style={{ height: `${HERO1_START_VH}vh` }} aria-label="My Universe — 启程">

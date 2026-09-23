@@ -9,6 +9,7 @@
     "brand:generate": "node scripts/generate-nebuluxe-wordmark.mjs",
     "import:morningstar": "node scripts/import-morningstar.mjs",
     "check": "node scripts/check-assets.mjs",
+    "test:audio": "node --test scripts/background-music.test.mjs",
     "build": "vite build",
     "preview": "vite preview --host 127.0.0.1 --port 4173"
   },

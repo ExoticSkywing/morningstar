@@ -3,6 +3,7 @@ import { readFile, readdir, stat } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parse } from 'parse5';
+import { BGM_SOURCES } from '../src/audio/backgroundMusic.js';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const publicRoot = path.join(root, 'public');
@@ -71,6 +72,7 @@ await checkHtml(path.join(root, 'index.html'), '/');
 await checkHtml(path.join(root, 'src/morningstar/content.html'), '/');
 await checkCss(path.join(root, 'src/morningstar/source.css'), '/');
 await walk(publicRoot);
+for (const { src } of BGM_SOURCES) await checkUrl(src, '/', 'BGM');
 if (failures.size) {
   console.error([...failures].join('\n'));
   process.exitCode = 1;

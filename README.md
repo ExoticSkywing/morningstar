@@ -41,6 +41,18 @@ WebGL 场景的 JS 体积较大，构建保留体积提示。hero0 和原生 her
 
 ## 修改与重新生成
 
+### 背景音乐
+
+`public/audio/nebuluxe-bgm.m4a`（AAC，优先用于 iOS）与 MP3 后备为用户提供音乐的前 90 秒，循环播放；1.5 秒淡入、3 秒淡出，响度约 -22 LUFS。保留源文件的 CHINA LAK 署名，音乐不属于 NEBULUXE 品牌素材权利声明的范围。
+
+首页加载后尝试有声播放；受浏览器限制时，在首次真实触摸结束、点击或按键中同步重试。iOS Safari 无法保证在用户完全不交互时有声自动播放，静音自动播放也不能保证稍后自动解除静音。右下角可手动开启／关闭，记住关闭选择；切换后台会暂停，返回后尝试接续。该播放器贯穿 hero0 和 hero1，不随滚动重新创建。
+
+播放器位于 `src/components/BackgroundMusic.jsx`，播放与恢复逻辑位于 `src/audio/backgroundMusic.js`。运行 `npm run test:audio` 检查自动播放被拒、触摸解锁、请求竞争、静音记忆及后台恢复。iOS 最终验收需真机 Safari，桌面手机尺寸预览不能替代。
+
+iOS 音频测试使用 Vite 开发／预览服务或支持字节范围请求的静态托管，服务端应返回正确的音频 MIME 与 `206 Partial Content`；已验证 Vite 的 AAC 范围请求。可选 `server.py` 使用 Python 标准静态服务，不作为 iOS 音频验收入口。
+
+### 页面与品牌
+
 日常修改 React 源码、`src/morningstar/runtime.js` 和 `integration.css`。首页 DOM 定制写入 `scripts/nebuluxe-home.mjs`，不要直接修改生成的 `src/morningstar/content.html` 或 `source.css`。
 
 更新镜像输入后，运行 `npm run import:morningstar`，再运行 `npm run check` 和 `npm run build`。导入会覆盖 `public/morningstar/`、`public/vendor/` 及上述生成文件，并重新应用 NEBULUXE 标志、留白布局和禁用社交链接。`site/` 是原始镜像输入，`public/` 是当前可部署副本，两者有意同时保留。
