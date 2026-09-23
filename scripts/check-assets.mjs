@@ -4,6 +4,9 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parse } from 'parse5';
 import { BGM_SOURCES } from '../src/audio/backgroundMusic.js';
+import siteConfig from '../site.config.js';
+import { configurePortfolio } from './portfolio-content.mjs';
+import { configureEmotionboard } from './emotionboard-content.mjs';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const publicRoot = path.join(root, 'public');
@@ -27,8 +30,8 @@ async function checkUrl(value, base, source) {
   }
 }
 
-async function checkHtml(file, base) {
-  const html = await readFile(file, 'utf8');
+async function checkHtml(file, base, transform = html => html) {
+  const html = transform(await readFile(file, 'utf8'));
   const nodes = [];
   function visit(node) { nodes.push(node); node.childNodes?.forEach(visit); }
   visit(parse(html));
@@ -37,7 +40,7 @@ async function checkHtml(file, base) {
     const rel = node.attrs?.find(attr => attr.name === 'rel')?.value;
     if (node.tagName === 'link' && ['preconnect', 'dns-prefetch'].includes(rel)) continue;
     for (const { name, value } of node.attrs || []) {
-      if (['src', 'poster'].includes(name) || (name === 'href' && ['a', 'link'].includes(node.tagName))) {
+      if (['src', 'poster', 'data-src'].includes(name) || (name === 'href' && ['a', 'link'].includes(node.tagName))) {
         // The root entry's module source is handled by the Vite build.
         if (value.startsWith('/src/')) continue;
         await checkUrl(value, base, source);
@@ -70,6 +73,7 @@ async function checkCss(file, base) {
 
 await checkHtml(path.join(root, 'index.html'), '/');
 await checkHtml(path.join(root, 'src/morningstar/content.html'), '/');
+await checkHtml(path.join(root, 'src/morningstar/content.html'), '/', html => configureEmotionboard(configurePortfolio(html, siteConfig.portfolioMode)));
 await checkCss(path.join(root, 'src/morningstar/source.css'), '/');
 await walk(publicRoot);
 for (const { src } of BGM_SOURCES) await checkUrl(src, '/', 'BGM');

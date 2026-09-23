@@ -4,6 +4,7 @@ import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import siteConfig from './site.config.js';
 import { configurePortfolio } from './scripts/portfolio-content.mjs';
+import { configureEmotionboard } from './scripts/emotionboard-content.mjs';
 
 const contentPath = fileURLToPath(new URL('./src/morningstar/content.html', import.meta.url));
 const contentModule = '\0virtual:morningstar-content';
@@ -17,7 +18,7 @@ export default defineConfig({
     load(id) {
       if (id !== contentModule) return;
       this.addWatchFile(contentPath);
-      const html = configurePortfolio(readFileSync(contentPath, 'utf8'), siteConfig.portfolioMode);
+      const html = configureEmotionboard(configurePortfolio(readFileSync(contentPath, 'utf8'), siteConfig.portfolioMode));
       return `export const portfolioMode = ${JSON.stringify(siteConfig.portfolioMode)};\nexport default ${JSON.stringify(html)};`;
     },
     handleHotUpdate({ file, server }) {

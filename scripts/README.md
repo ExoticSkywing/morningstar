@@ -6,6 +6,7 @@
 | --- | --- |
 | `npm run import:morningstar` | 读取 `site/`，同步 `public/`，生成首页 DOM 和作用域 CSS，应用原生运行时补丁及 NEBULUXE 定制。 |
 | `npm run brand:generate` | 从共用字形数据生成网站暖白、深墨色艺术字 SVG。 |
+| `npm run media:emotionboard` | 使用 FFmpeg 将情绪板视频转为静音 H.264 循环及 WebP 封面，保留用户原始素材。 |
 | `npm run check` | 检查首页、详情页及样式引用的本地资源与链接是否存在。 |
 | `npm run test:audio` | 检查 BGM 自动播放受限后的恢复、触摸触发、静音记忆及生命周期；使用 Node.js 标准测试工具。 |
 | `npm run test:portfolio` | 检查探索星群的两种模式，确保精简模式不保留筛选／作品节点，完整模式保留原始功能数据。 |

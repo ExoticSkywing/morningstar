@@ -1,6 +1,6 @@
 export const BGM_SOURCES = [
-  { src: '/audio/nebuluxe-bgm.m4a', type: 'audio/mp4' },
-  { src: '/audio/nebuluxe-bgm.mp3', type: 'audio/mpeg' },
+  { src: '/audio/nebuluxe-bgm.m4a?v=210', type: 'audio/mp4' },
+  { src: '/audio/nebuluxe-bgm.mp3?v=210', type: 'audio/mpeg' },
 ];
 
 const PREFERENCE_KEY = 'nebuluxe:bgm';

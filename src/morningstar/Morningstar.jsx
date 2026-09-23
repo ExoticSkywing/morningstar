@@ -1,11 +1,14 @@
 import { memo, useEffect, useRef } from 'react';
 import content, { portfolioMode } from 'virtual:morningstar-content';
 import { initializeMorningstar } from './runtime';
+import { initializeEmotionboard } from './emotionboard';
 import './source.css';
 import './integration.css';
+import './emotionboard.css';
 
 export default memo(function Morningstar({ onReady }) {
   const rootRef = useRef(null);
+  useEffect(() => initializeEmotionboard(rootRef.current), []);
   useEffect(() => {
     let dispose;
     let gone = false;

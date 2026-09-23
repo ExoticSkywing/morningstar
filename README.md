@@ -43,7 +43,7 @@ WebGL 场景的 JS 体积较大，构建保留体积提示。hero0 和原生 her
 
 ### 背景音乐
 
-`public/audio/nebuluxe-bgm.m4a`（AAC，优先用于 iOS）与 MP3 后备为用户提供音乐的前 90 秒，循环播放；1.5 秒淡入、3 秒淡出，响度约 -22 LUFS。保留源文件的 CHINA LAK 署名，音乐不属于 NEBULUXE 品牌素材权利声明的范围。
+`public/audio/nebuluxe-bgm.m4a`（AAC，优先用于 iOS）与 MP3 后备为用户提供音乐的前 210 秒（3 分半），循环播放；1.5 秒淡入、末尾 3 秒淡出，响度约 -22 LUFS。播放地址带版本参数以更新旧音频缓存。保留源文件的 CHINA LAK 署名，音乐不属于 NEBULUXE 品牌素材权利声明的范围。
 
 首页加载后尝试有声播放；受浏览器限制时，在首次真实触摸结束、点击或按键中同步重试。iOS Safari 无法保证在用户完全不交互时有声自动播放，静音自动播放也不能保证稍后自动解除静音。右上角可手动开启／关闭，记住关闭选择；切换后台会暂停，返回后尝试接续。该播放器贯穿 hero0 和 hero1，不随滚动重新创建。
 
@@ -52,6 +52,10 @@ WebGL 场景的 JS 体积较大，构建保留体积提示。hero0 和原生 her
 iOS 音频测试使用 Vite 开发／预览服务或支持字节范围请求的静态托管，服务端应返回正确的音频 MIME 与 `206 Partial Content`；已验证 Vite 的 AAC 范围请求。可选 `server.py` 使用 Python 标准静态服务，不作为 iOS 音频验收入口。
 
 ### 页面与品牌
+
+情绪板位于 `#projects`，素材来自 `public/emotionboard/`。`scripts/emotionboard-content.mjs` 维护素材、文案和构建时模板，`src/morningstar/emotionboard.css` 维护错落排版。三个动态片段使用静音 H.264 视频及 WebP 封面；只在进入视野时加载／播放，离屏、后台暂停，减少动态效果偏好下默认展示封面，播放按钮仍可手动开启。它与探索星群的模式独立。
+
+更换原始视频后运行 `npm run media:emotionboard`（需要 FFmpeg）生成 `loops/` 和 `posters/`。原文件保留，网站仅播放去除音轨的版本，避免与 BGM 混音。
 
 探索星群模块由根目录 `site.config.js` 配置：
 
