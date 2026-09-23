@@ -25,9 +25,7 @@ export default memo(function BackgroundMusic() {
       <button type="button" className={styles.button} onClick={() => controllerRef.current?.toggle()}
         aria-label={label} aria-pressed={playing} aria-controls="nebuluxe-bgm" title={label}
         data-playing={playing}>
-        {playing ? <Volume2 size={16} aria-hidden="true" /> : <VolumeX size={16} aria-hidden="true" />}
-        <span className={styles.label}>{playing ? '声音已开' : pending ? '声音载入中' : state.status === 'error' ? '重试音乐' : '开启声音'}</span>
-        <span className={styles.equalizer} aria-hidden="true"><i /><i /><i /></span>
+        {playing ? <Volume2 size={18} aria-hidden="true" /> : <VolumeX size={18} aria-hidden="true" />}
       </button>
     </div>
   );
