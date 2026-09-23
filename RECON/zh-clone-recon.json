@@ -1,0 +1,2008 @@
+{
+  "label": "zh-clone",
+  "url": "http://127.0.0.1:44122",
+  "capturedAt": "2026-08-22T14:00:44.975Z",
+  "console": {
+    "errors": [
+      {
+        "type": "error",
+        "text": "SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at Yo.parse (http://127.0.0.1:44122/vendor/cdn.jsdelivr.net/gh/morningstar-ventures/msv-website@main/offbrand-morningstar.iife.007b.js:25:57504)\n    at Object.onLoad (http://127.0.0.1:44122/vendor/cdn.jsdelivr.net/gh/morningstar-ventures/msv-website@main/offbrand-morningstar.iife.007b.js:25:56665)\n    at http://127.0.0.1:44122/vendor/cdn.jsdelivr.net/gh/morningstar-ventures/msv-website@main/offbrand-morningstar.iife.007b.js:6:469938",
+        "viewport": 1440
+      },
+      {
+        "type": "error",
+        "text": "SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at Yo.parse (http://127.0.0.1:44122/vendor/cdn.jsdelivr.net/gh/morningstar-ventures/msv-website@main/offbrand-morningstar.iife.007b.js:25:57504)\n    at Object.onLoad (http://127.0.0.1:44122/vendor/cdn.jsdelivr.net/gh/morningstar-ventures/msv-website@main/offbrand-morningstar.iife.007b.js:25:56665)\n    at http://127.0.0.1:44122/vendor/cdn.jsdelivr.net/gh/morningstar-ventures/msv-website@main/offbrand-morningstar.iife.007b.js:6:469938",
+        "viewport": 768
+      },
+      {
+        "type": "error",
+        "text": "SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at Yo.parse (http://127.0.0.1:44122/vendor/cdn.jsdelivr.net/gh/morningstar-ventures/msv-website@main/offbrand-morningstar.iife.007b.js:25:57504)\n    at Object.onLoad (http://127.0.0.1:44122/vendor/cdn.jsdelivr.net/gh/morningstar-ventures/msv-website@main/offbrand-morningstar.iife.007b.js:25:56665)\n    at http://127.0.0.1:44122/vendor/cdn.jsdelivr.net/gh/morningstar-ventures/msv-website@main/offbrand-morningstar.iife.007b.js:6:469938",
+        "viewport": 390
+      }
+    ],
+    "warnings": [
+      {
+        "type": "warning",
+        "text": "[.WebGL-0x23340011fa00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+        "viewport": 1440
+      },
+      {
+        "type": "warning",
+        "text": "[.WebGL-0x23340011fa00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+        "viewport": 1440
+      },
+      {
+        "type": "warning",
+        "text": "[.WebGL-0x23340011fa00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+        "viewport": 1440
+      },
+      {
+        "type": "warning",
+        "text": "[.WebGL-0x23340011fa00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)",
+        "viewport": 1440
+      }
+    ],
+    "pageErrors": []
+  },
+  "captures": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "screenshot": "screenshots/zh-clone-1440.png",
+      "signals": {
+        "href": "http://127.0.0.1:44122/",
+        "title": "Morningstar Ventures｜支持雄心勃勃的创始人",
+        "lang": "zh-CN",
+        "bodyTextChars": 1001,
+        "scrollHeight": 10043,
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "h1": [
+          "支持雄心勃勃的构想"
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "支持雄心勃勃的构想"
+          },
+          {
+            "tag": "h2",
+            "text": "我们是一家专注于数字资产与区块链技术的自营投资机构。"
+          },
+          {
+            "tag": "h3",
+            "text": "我们的投资组合"
+          },
+          {
+            "tag": "h3",
+            "text": "我们的项目"
+          },
+          {
+            "tag": "h3",
+            "text": "我们的使命"
+          },
+          {
+            "tag": "h3",
+            "text": "我们的活动"
+          },
+          {
+            "tag": "h3",
+            "text": "招聘"
+          },
+          {
+            "tag": "h3",
+            "text": "订阅我们的通讯"
+          }
+        ],
+        "metaDescription": "我们是一家专注于数字资产与区块链技术的自营投资机构。",
+        "counts": {
+          "links": 123,
+          "images": 56,
+          "video": 0,
+          "canvas": 1,
+          "sections": 9,
+          "forms": 3,
+          "buttons": 0,
+          "inputs": 19,
+          "interactive": 149,
+          "scripts": 7,
+          "stylesheets": 2
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "http://127.0.0.1:44122/vendor/cdn.jsdelivr.net/gh/morningstar-ventures/msv-website@main/offbrand-morningstar.iife.007b.js",
+          "http://127.0.0.1:44122/vendor/cdn.jsdelivr.net/npm/@finsweet/attributes-cmsfilter@1/cmsfilter.js",
+          "http://127.0.0.1:44122/vendor/cdn.jsdelivr.net/npm/@finsweet/attributes-cmsload@1/cmsload.js",
+          "http://127.0.0.1:44122/vendor/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6218b09ec1cd76c58f838521",
+          "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/js/webflow.schunk.f2efb3c5440a81cf.js",
+          "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/js/webflow.819d3f41.90322e919fc2b125.js",
+          "http://127.0.0.1:44122/clone-runtime.js"
+        ],
+        "stylesheets": [
+          "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/css/morningstar-ventures.webflow.shared.47c3f02a7.min.css",
+          "http://127.0.0.1:44122/clone-runtime.css"
+        ],
+        "sections": [
+          {
+            "tag": "section",
+            "id": "hero",
+            "className": "section is--hero",
+            "text": "支持雄心勃勃的构想Token / Equity开始探索",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 1440,
+              "height": 1800
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "14.4px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "about",
+            "className": "section is--mission",
+            "text": "我们是一家专注于数字资产与区块链技术的自营投资机构。投资组合",
+            "rect": {
+              "x": 0,
+              "y": 1800,
+              "width": 1440,
+              "height": 990
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "14.4px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "portfolio",
+            "className": "section is--portfolio",
+            "text": "我们的投资组合基础设施游戏DeFiAINFT公会更多筛选重置元宇宙BTC 生态RWALaunchpadDePIN社区 / 媒体SocialFiEquity提交成功，感谢你的订阅。提交失败，请检查后重试。MultiversXMultiversXMultiversXDeFiDeFi基础设施基础设施StepnStepnStepn游戏游戏NFTNFTEthernityEthernityEthernity元宇宙元宇宙NFTNFTFusionistFusionistFusionist游戏",
+            "rect": {
+              "x": 0,
+              "y": 2790,
+              "width": 1440,
+              "height": 1170
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "14.4px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "projects",
+            "className": "section is--prod",
+            "text": "我们的项目测试版37x 是迪拜市中心的 Web3 地标空间，汇聚创始人、投资者与创作者。了解更多了解更多已上线MSV GG 是一个邀请制 Web3 专家社区，致力于支持并投资早期项目。了解更多了解更多已上线MSV STUDIO 是由 Morningstar Ventures 运营的内部开发、设计、战略与营销团队。了解更多了解更多已上线Crypto Atlas 是一个加密项目发现平台，帮助你掌握最新动态并探索项目洞察。 了解更多了解更多已收购Coin Explorers 提供最",
+            "rect": {
+              "x": 0,
+              "y": 3960,
+              "width": 1440,
+              "height": 1440
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "14.4px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "team",
+            "className": "section is--team",
+            "text": "",
+            "rect": {
+              "x": 0,
+              "y": 5400,
+              "width": 1440,
+              "height": 0
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "14.4px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "mission",
+            "className": "section is--elrond",
+            "text": "我们的使命Morningstar Ventures 团队遍布全球，主要位于迪拜。在创始人兼 CEO Danilo S. Carlucci 的带领下，团队汇集了来自技术、营销、增长战略、设计与 UI/UX 等领域的资深专业人士。 我们不仅是投资者，也是建设者，自成立以来已经建立了多个附属项目，例如我们的Web3 空间和总部37xDubai、我们的咨询公司MSV Studio、我们的软件平台Atlas Technologies和我们的行会MSV GG。了解更多",
+            "rect": {
+              "x": 0,
+              "y": 5400,
+              "width": 1440,
+              "height": 1350
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "14.4px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "events",
+            "className": "section is--community",
+            "text": "我们的活动我们定期举办 Web3 技术活动，让加密爱好者、投资者与建设者相聚。37xDubai 是位于迪拜市中心的独特创意空间。查看活动日历并报名参加即将举行的活动。参加我们的活动",
+            "rect": {
+              "x": 0,
+              "y": 6750,
+              "width": 1440,
+              "height": 1350
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "14.4px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "careers",
+            "className": "section is--reform display--none",
+            "text": "招聘我们是一支年轻、充满活力、富有创业精神的团队，遍布 10 多个国家。专注于加密和区块链项目，我们正在快速成长并不断寻找新的人才！查看招聘机会",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "style": {
+              "display": "none",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "14.4px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "section is--footer",
+            "text": "订阅我们的通讯提交成功，感谢你的订阅。提交失败，请检查后重试。",
+            "rect": {
+              "x": 0,
+              "y": 8100,
+              "width": 1440,
+              "height": 1943
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "14.4px"
+            }
+          }
+        ],
+        "cssVariables": [
+          [
+            "--dark",
+            "#171f27"
+          ],
+          [
+            "--white",
+            "white"
+          ],
+          [
+            "--m-navy",
+            "#1c2230"
+          ],
+          [
+            "--navy",
+            "#1b46c2"
+          ],
+          [
+            "--light-blue",
+            "#b5e2ff"
+          ],
+          [
+            "--dark2",
+            "#303840"
+          ]
+        ],
+        "fonts": [
+          "webflow-icons",
+          "Punta",
+          "Simplon",
+          "Punta"
+        ],
+        "images": [
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/626ba1a0b1cbd15a4fcab634_msv_white.svg",
+            "alt": "",
+            "width": 300,
+            "height": 95
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6246e4c9e2d75bfb6c31b7dd_Group%20124.svg",
+            "alt": "",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6246e4c9e94a7d88031557d7_Group%20123.svg",
+            "alt": "",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6246e658cb79424d7916df3d_Group%20123fill.svg",
+            "alt": "",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 43,
+            "height": 9
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/62223769c69b421f9d45fdb6_reset-black.svg",
+            "alt": "重置图标\n",
+            "width": 24,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63a58430fa3dbfeee2084789_multiversx.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/624f9d1001d1c25c12154788_stepn.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de86f999a5774186a2750_ethernity.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/646433bd0b210bc1b23f84c5_fusionist.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de7ccb706fb4664dd7b3a_axelar.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de821774d884d81cbcb3c_covalent.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/62501403e4f30adde2caead4_gunzilla.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de9e6898f4f23978b675d_zk%20link.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de7e075dc1ff2035568c0_biconomy.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de901d9d8c5839049dc0b_moralis.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661ce3d085a612bece9111d5_xion.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621dfc68d6110c7378e57225_YGG-logo-horizontal---bw2.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de800b84eb91311a6445b_chainflip.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/625817a7497e042ad3280af6_jambo.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/624ffe797ebbf574b824e0ec_Injective.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63b568f30e058c026c69bf87_cross_the_ages.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de7e6ef4b215ce716e295_bitscrunch.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de927c99c636bfbfeafab_paraswap.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63b6d14f62f4c84415dda8c2_meria.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de897ef4b2101ef16e6ac_hasfhlow.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/64b504b2315425ad7cfe3436_omni.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de8b11fbc49db9da2fb1c_humans.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661ce55bd455e91822ab38d3_merkle.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6704deefd2e945e8e4e07927_pingponng.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de90a38688094f8cf9095_ngrave.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/64819fc70ac010f9f9763bc2_blocklords.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6674004793f87044c85a0fe4_sonic.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6268fbe94dfe7477d3e5b909_apeiron.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/65d74df83c908f59eb162228_jpeg-optimizer_ultiverse%20(3).png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661cea7f89feebda1994b63e_particle.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6399c8b84915a66f5550c611_37x.png",
+            "alt": "品牌标志",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 30,
+            "height": 6
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6501c77b989ca9cdc789fff8_msv_gg_products.png",
+            "alt": "品牌标志",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 30,
+            "height": 6
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/64ad0d4a0958e117a85e8a31_msv_studio_logo.png",
+            "alt": "品牌标志",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 30,
+            "height": 6
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6373afa2312b06ee138c5255_ca%20(2).png",
+            "alt": "品牌标志",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 30,
+            "height": 6
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/673f6206961a1c4e8c47fc3c_ce.png",
+            "alt": "品牌标志",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 30,
+            "height": 6
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/622f1eb1fc363c70dde00576_elrond%20tower%20(1).png",
+            "alt": "埃尔隆德\n",
+            "width": 240,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 43,
+            "height": 9
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/626ba1a0b1cbd15a4fcab634_msv_white.svg",
+            "alt": "",
+            "width": 300,
+            "height": 95
+          }
+        ],
+        "canvases": [
+          {
+            "width": 1440,
+            "height": 900,
+            "cssWidth": 1440,
+            "cssHeight": 900
+          }
+        ]
+      }
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "screenshot": "screenshots/zh-clone-768.png",
+      "signals": {
+        "href": "http://127.0.0.1:44122/",
+        "title": "Morningstar Ventures｜支持雄心勃勃的创始人",
+        "lang": "zh-CN",
+        "bodyTextChars": 837,
+        "scrollHeight": 10019,
+        "viewport": {
+          "width": 768,
+          "height": 900
+        },
+        "h1": [
+          "支持雄心勃勃的构想"
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "支持雄心勃勃的构想"
+          },
+          {
+            "tag": "h2",
+            "text": "我们是一家专注于数字资产与区块链技术的自营投资机构。"
+          },
+          {
+            "tag": "h3",
+            "text": "我们的投资组合"
+          },
+          {
+            "tag": "h3",
+            "text": "我们的项目"
+          },
+          {
+            "tag": "h3",
+            "text": "我们的使命"
+          },
+          {
+            "tag": "h3",
+            "text": "我们的活动"
+          },
+          {
+            "tag": "h3",
+            "text": "招聘"
+          },
+          {
+            "tag": "h3",
+            "text": "订阅我们的通讯"
+          }
+        ],
+        "metaDescription": "我们是一家专注于数字资产与区块链技术的自营投资机构。",
+        "counts": {
+          "links": 123,
+          "images": 56,
+          "video": 0,
+          "canvas": 1,
+          "sections": 9,
+          "forms": 3,
+          "buttons": 0,
+          "inputs": 19,
+          "interactive": 149,
+          "scripts": 7,
+          "stylesheets": 2
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "http://127.0.0.1:44122/vendor/cdn.jsdelivr.net/gh/morningstar-ventures/msv-website@main/offbrand-morningstar.iife.007b.js",
+          "http://127.0.0.1:44122/vendor/cdn.jsdelivr.net/npm/@finsweet/attributes-cmsfilter@1/cmsfilter.js",
+          "http://127.0.0.1:44122/vendor/cdn.jsdelivr.net/npm/@finsweet/attributes-cmsload@1/cmsload.js",
+          "http://127.0.0.1:44122/vendor/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6218b09ec1cd76c58f838521",
+          "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/js/webflow.schunk.f2efb3c5440a81cf.js",
+          "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/js/webflow.819d3f41.90322e919fc2b125.js",
+          "http://127.0.0.1:44122/clone-runtime.js"
+        ],
+        "stylesheets": [
+          "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/css/morningstar-ventures.webflow.shared.47c3f02a7.min.css",
+          "http://127.0.0.1:44122/clone-runtime.css"
+        ],
+        "sections": [
+          {
+            "tag": "section",
+            "id": "hero",
+            "className": "section is--hero",
+            "text": "支持雄心勃勃的构想Token / Equity开始探索",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 768,
+              "height": 1800
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "12px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "about",
+            "className": "section is--mission",
+            "text": "我们是一家专注于数字资产与区块链技术的自营投资机构。投资组合",
+            "rect": {
+              "x": 0,
+              "y": 1800,
+              "width": 768,
+              "height": 990
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "12px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "portfolio",
+            "className": "section is--portfolio",
+            "text": "我们的投资组合基础设施游戏DeFiAINFT公会更多筛选重置元宇宙BTC 生态RWALaunchpadDePIN社区 / 媒体SocialFiEquity提交成功，感谢你的订阅。提交失败，请检查后重试。MultiversXMultiversXMultiversXDeFiDeFi基础设施基础设施StepnStepnStepn游戏游戏NFTNFTEthernityEthernityEthernity元宇宙元宇宙NFTNFTFusionistFusionistFusionist游戏",
+            "rect": {
+              "x": 0,
+              "y": 2790,
+              "width": 768,
+              "height": 1170
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "12px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "projects",
+            "className": "section is--prod",
+            "text": "我们的项目测试版37x 是迪拜市中心的 Web3 地标空间，汇聚创始人、投资者与创作者。了解更多了解更多已上线MSV GG 是一个邀请制 Web3 专家社区，致力于支持并投资早期项目。了解更多了解更多已上线MSV STUDIO 是由 Morningstar Ventures 运营的内部开发、设计、战略与营销团队。了解更多了解更多已上线Crypto Atlas 是一个加密项目发现平台，帮助你掌握最新动态并探索项目洞察。 了解更多了解更多已收购Coin Explorers 提供最",
+            "rect": {
+              "x": 0,
+              "y": 3960,
+              "width": 768,
+              "height": 1440
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "12px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "team",
+            "className": "section is--team",
+            "text": "",
+            "rect": {
+              "x": 0,
+              "y": 5400,
+              "width": 768,
+              "height": 0
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "12px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "mission",
+            "className": "section is--elrond",
+            "text": "我们的使命Morningstar Ventures 团队遍布全球，主要位于迪拜。在创始人兼 CEO Danilo S. Carlucci 的带领下，团队汇集了来自技术、营销、增长战略、设计与 UI/UX 等领域的资深专业人士。 我们不仅是投资者，也是建设者，自成立以来已经建立了多个附属项目，例如我们的Web3 空间和总部37xDubai、我们的咨询公司MSV Studio、我们的软件平台Atlas Technologies和我们的行会MSV GG。了解更多",
+            "rect": {
+              "x": 0,
+              "y": 5400,
+              "width": 768,
+              "height": 1350
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "12px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "events",
+            "className": "section is--community",
+            "text": "我们的活动我们定期举办 Web3 技术活动，让加密爱好者、投资者与建设者相聚。37xDubai 是位于迪拜市中心的独特创意空间。查看活动日历并报名参加即将举行的活动。参加我们的活动",
+            "rect": {
+              "x": 0,
+              "y": 6750,
+              "width": 768,
+              "height": 1350
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "12px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "careers",
+            "className": "section is--reform display--none",
+            "text": "招聘我们是一支年轻、充满活力、富有创业精神的团队，遍布 10 多个国家。专注于加密和区块链项目，我们正在快速成长并不断寻找新的人才！查看招聘机会",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "style": {
+              "display": "none",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "12px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "section is--footer",
+            "text": "订阅我们的通讯提交成功，感谢你的订阅。提交失败，请检查后重试。",
+            "rect": {
+              "x": 0,
+              "y": 8100,
+              "width": 768,
+              "height": 1919
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "12px"
+            }
+          }
+        ],
+        "cssVariables": [
+          [
+            "--dark",
+            "#171f27"
+          ],
+          [
+            "--white",
+            "white"
+          ],
+          [
+            "--m-navy",
+            "#1c2230"
+          ],
+          [
+            "--navy",
+            "#1b46c2"
+          ],
+          [
+            "--light-blue",
+            "#b5e2ff"
+          ],
+          [
+            "--dark2",
+            "#303840"
+          ]
+        ],
+        "fonts": [
+          "webflow-icons",
+          "Punta",
+          "Simplon",
+          "Punta"
+        ],
+        "images": [
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/626ba1a0b1cbd15a4fcab634_msv_white.svg",
+            "alt": "",
+            "width": 300,
+            "height": 95
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6246e4c9e2d75bfb6c31b7dd_Group%20124.svg",
+            "alt": "",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6246e4c9e94a7d88031557d7_Group%20123.svg",
+            "alt": "",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6246e658cb79424d7916df3d_Group%20123fill.svg",
+            "alt": "",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 36,
+            "height": 7
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/62223769c69b421f9d45fdb6_reset-black.svg",
+            "alt": "重置图标\n",
+            "width": 24,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63a58430fa3dbfeee2084789_multiversx.png",
+            "alt": "",
+            "width": 104,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/624f9d1001d1c25c12154788_stepn.png",
+            "alt": "",
+            "width": 104,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de86f999a5774186a2750_ethernity.svg",
+            "alt": "",
+            "width": 104,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/646433bd0b210bc1b23f84c5_fusionist.png",
+            "alt": "",
+            "width": 104,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de7ccb706fb4664dd7b3a_axelar.svg",
+            "alt": "",
+            "width": 104,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de821774d884d81cbcb3c_covalent.svg",
+            "alt": "",
+            "width": 104,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/62501403e4f30adde2caead4_gunzilla.png",
+            "alt": "",
+            "width": 104,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de9e6898f4f23978b675d_zk%20link.svg",
+            "alt": "",
+            "width": 104,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de7e075dc1ff2035568c0_biconomy.svg",
+            "alt": "",
+            "width": 104,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de901d9d8c5839049dc0b_moralis.svg",
+            "alt": "",
+            "width": 104,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661ce3d085a612bece9111d5_xion.png",
+            "alt": "",
+            "width": 104,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621dfc68d6110c7378e57225_YGG-logo-horizontal---bw2.png",
+            "alt": "",
+            "width": 104,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de800b84eb91311a6445b_chainflip.svg",
+            "alt": "",
+            "width": 104,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/625817a7497e042ad3280af6_jambo.png",
+            "alt": "",
+            "width": 104,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/624ffe797ebbf574b824e0ec_Injective.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63b568f30e058c026c69bf87_cross_the_ages.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de7e6ef4b215ce716e295_bitscrunch.svg",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de927c99c636bfbfeafab_paraswap.svg",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63b6d14f62f4c84415dda8c2_meria.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de897ef4b2101ef16e6ac_hasfhlow.svg",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/64b504b2315425ad7cfe3436_omni.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de8b11fbc49db9da2fb1c_humans.svg",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661ce55bd455e91822ab38d3_merkle.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6704deefd2e945e8e4e07927_pingponng.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de90a38688094f8cf9095_ngrave.svg",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/64819fc70ac010f9f9763bc2_blocklords.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6674004793f87044c85a0fe4_sonic.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6268fbe94dfe7477d3e5b909_apeiron.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/65d74df83c908f59eb162228_jpeg-optimizer_ultiverse%20(3).png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661cea7f89feebda1994b63e_particle.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6399c8b84915a66f5550c611_37x.png",
+            "alt": "品牌标志",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 25,
+            "height": 5
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6501c77b989ca9cdc789fff8_msv_gg_products.png",
+            "alt": "品牌标志",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 25,
+            "height": 5
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/64ad0d4a0958e117a85e8a31_msv_studio_logo.png",
+            "alt": "品牌标志",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 25,
+            "height": 5
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6373afa2312b06ee138c5255_ca%20(2).png",
+            "alt": "品牌标志",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 25,
+            "height": 5
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/673f6206961a1c4e8c47fc3c_ce.png",
+            "alt": "品牌标志",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 25,
+            "height": 5
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/622f1eb1fc363c70dde00576_elrond%20tower%20(1).png",
+            "alt": "埃尔隆德\n",
+            "width": 240,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 36,
+            "height": 7
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/626ba1a0b1cbd15a4fcab634_msv_white.svg",
+            "alt": "",
+            "width": 300,
+            "height": 95
+          }
+        ],
+        "canvases": [
+          {
+            "width": 768,
+            "height": 900,
+            "cssWidth": 768,
+            "cssHeight": 900
+          }
+        ]
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "screenshot": "screenshots/zh-clone-390.png",
+      "signals": {
+        "href": "http://127.0.0.1:44122/",
+        "title": "Morningstar Ventures｜支持雄心勃勃的创始人",
+        "lang": "zh-CN",
+        "bodyTextChars": 837,
+        "scrollHeight": 10404,
+        "viewport": {
+          "width": 390,
+          "height": 900
+        },
+        "h1": [
+          "支持雄心勃勃的构想"
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "支持雄心勃勃的构想"
+          },
+          {
+            "tag": "h2",
+            "text": "我们是一家专注于数字资产与区块链技术的自营投资机构。"
+          },
+          {
+            "tag": "h3",
+            "text": "我们的投资组合"
+          },
+          {
+            "tag": "h3",
+            "text": "我们的项目"
+          },
+          {
+            "tag": "h3",
+            "text": "我们的使命"
+          },
+          {
+            "tag": "h3",
+            "text": "我们的活动"
+          },
+          {
+            "tag": "h3",
+            "text": "招聘"
+          },
+          {
+            "tag": "h3",
+            "text": "订阅我们的通讯"
+          }
+        ],
+        "metaDescription": "我们是一家专注于数字资产与区块链技术的自营投资机构。",
+        "counts": {
+          "links": 123,
+          "images": 56,
+          "video": 0,
+          "canvas": 1,
+          "sections": 9,
+          "forms": 3,
+          "buttons": 0,
+          "inputs": 19,
+          "interactive": 149,
+          "scripts": 7,
+          "stylesheets": 2
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "http://127.0.0.1:44122/vendor/cdn.jsdelivr.net/gh/morningstar-ventures/msv-website@main/offbrand-morningstar.iife.007b.js",
+          "http://127.0.0.1:44122/vendor/cdn.jsdelivr.net/npm/@finsweet/attributes-cmsfilter@1/cmsfilter.js",
+          "http://127.0.0.1:44122/vendor/cdn.jsdelivr.net/npm/@finsweet/attributes-cmsload@1/cmsload.js",
+          "http://127.0.0.1:44122/vendor/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6218b09ec1cd76c58f838521",
+          "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/js/webflow.schunk.f2efb3c5440a81cf.js",
+          "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/js/webflow.819d3f41.90322e919fc2b125.js",
+          "http://127.0.0.1:44122/clone-runtime.js"
+        ],
+        "stylesheets": [
+          "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/css/morningstar-ventures.webflow.shared.47c3f02a7.min.css",
+          "http://127.0.0.1:44122/clone-runtime.css"
+        ],
+        "sections": [
+          {
+            "tag": "section",
+            "id": "hero",
+            "className": "section is--hero",
+            "text": "支持雄心勃勃的构想Token / Equity开始探索",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 390,
+              "height": 1800
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "12px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "about",
+            "className": "section is--mission",
+            "text": "我们是一家专注于数字资产与区块链技术的自营投资机构。投资组合",
+            "rect": {
+              "x": 0,
+              "y": 1800,
+              "width": 390,
+              "height": 990
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "12px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "portfolio",
+            "className": "section is--portfolio",
+            "text": "我们的投资组合基础设施游戏DeFiAINFT公会更多筛选重置元宇宙BTC 生态RWALaunchpadDePIN社区 / 媒体SocialFiEquity提交成功，感谢你的订阅。提交失败，请检查后重试。MultiversXMultiversXMultiversXDeFiDeFi基础设施基础设施StepnStepnStepn游戏游戏NFTNFTEthernityEthernityEthernity元宇宙元宇宙NFTNFTFusionistFusionistFusionist游戏",
+            "rect": {
+              "x": 0,
+              "y": 2790,
+              "width": 390,
+              "height": 1170
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "12px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "projects",
+            "className": "section is--prod",
+            "text": "我们的项目测试版37x 是迪拜市中心的 Web3 地标空间，汇聚创始人、投资者与创作者。了解更多了解更多已上线MSV GG 是一个邀请制 Web3 专家社区，致力于支持并投资早期项目。了解更多了解更多已上线MSV STUDIO 是由 Morningstar Ventures 运营的内部开发、设计、战略与营销团队。了解更多了解更多已上线Crypto Atlas 是一个加密项目发现平台，帮助你掌握最新动态并探索项目洞察。 了解更多了解更多已收购Coin Explorers 提供最",
+            "rect": {
+              "x": 0,
+              "y": 3960,
+              "width": 390,
+              "height": 1771
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "12px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "team",
+            "className": "section is--team",
+            "text": "",
+            "rect": {
+              "x": 0,
+              "y": 5731,
+              "width": 390,
+              "height": 0
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "12px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "mission",
+            "className": "section is--elrond",
+            "text": "我们的使命Morningstar Ventures 团队遍布全球，主要位于迪拜。在创始人兼 CEO Danilo S. Carlucci 的带领下，团队汇集了来自技术、营销、增长战略、设计与 UI/UX 等领域的资深专业人士。 我们不仅是投资者，也是建设者，自成立以来已经建立了多个附属项目，例如我们的Web3 空间和总部37xDubai、我们的咨询公司MSV Studio、我们的软件平台Atlas Technologies和我们的行会MSV GG。了解更多",
+            "rect": {
+              "x": 0,
+              "y": 5731,
+              "width": 390,
+              "height": 1350
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "12px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "events",
+            "className": "section is--community",
+            "text": "我们的活动我们定期举办 Web3 技术活动，让加密爱好者、投资者与建设者相聚。37xDubai 是位于迪拜市中心的独特创意空间。查看活动日历并报名参加即将举行的活动。参加我们的活动",
+            "rect": {
+              "x": 0,
+              "y": 7081,
+              "width": 390,
+              "height": 1350
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "12px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "careers",
+            "className": "section is--reform display--none",
+            "text": "招聘我们是一支年轻、充满活力、富有创业精神的团队，遍布 10 多个国家。专注于加密和区块链项目，我们正在快速成长并不断寻找新的人才！查看招聘机会",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "style": {
+              "display": "none",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "12px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "section is--footer",
+            "text": "订阅我们的通讯提交成功，感谢你的订阅。提交失败，请检查后重试。",
+            "rect": {
+              "x": 0,
+              "y": 8431,
+              "width": 390,
+              "height": 1973
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "Simplon, \"PingFang SC\", \"Microsoft YaHei\", \"Noto Sans CJK SC\", sans-serif",
+              "fontSize": "12px"
+            }
+          }
+        ],
+        "cssVariables": [
+          [
+            "--dark",
+            "#171f27"
+          ],
+          [
+            "--white",
+            "white"
+          ],
+          [
+            "--m-navy",
+            "#1c2230"
+          ],
+          [
+            "--navy",
+            "#1b46c2"
+          ],
+          [
+            "--light-blue",
+            "#b5e2ff"
+          ],
+          [
+            "--dark2",
+            "#303840"
+          ]
+        ],
+        "fonts": [
+          "webflow-icons",
+          "Punta",
+          "Simplon",
+          "Punta"
+        ],
+        "images": [
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/626ba1a0b1cbd15a4fcab634_msv_white.svg",
+            "alt": "",
+            "width": 300,
+            "height": 95
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6246e4c9e2d75bfb6c31b7dd_Group%20124.svg",
+            "alt": "",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6246e4c9e94a7d88031557d7_Group%20123.svg",
+            "alt": "",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6246e658cb79424d7916df3d_Group%20123fill.svg",
+            "alt": "",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 36,
+            "height": 7
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/62223769c69b421f9d45fdb6_reset-black.svg",
+            "alt": "重置图标\n",
+            "width": 24,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63a58430fa3dbfeee2084789_multiversx.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/624f9d1001d1c25c12154788_stepn.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de86f999a5774186a2750_ethernity.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/646433bd0b210bc1b23f84c5_fusionist.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de7ccb706fb4664dd7b3a_axelar.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de821774d884d81cbcb3c_covalent.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/62501403e4f30adde2caead4_gunzilla.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de9e6898f4f23978b675d_zk%20link.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de7e075dc1ff2035568c0_biconomy.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de901d9d8c5839049dc0b_moralis.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661ce3d085a612bece9111d5_xion.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621dfc68d6110c7378e57225_YGG-logo-horizontal---bw2.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de800b84eb91311a6445b_chainflip.svg",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/625817a7497e042ad3280af6_jambo.png",
+            "alt": "",
+            "width": 123,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/624ffe797ebbf574b824e0ec_Injective.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63b568f30e058c026c69bf87_cross_the_ages.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de7e6ef4b215ce716e295_bitscrunch.svg",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de927c99c636bfbfeafab_paraswap.svg",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63b6d14f62f4c84415dda8c2_meria.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de897ef4b2101ef16e6ac_hasfhlow.svg",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/64b504b2315425ad7cfe3436_omni.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de8b11fbc49db9da2fb1c_humans.svg",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661ce55bd455e91822ab38d3_merkle.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6704deefd2e945e8e4e07927_pingponng.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de90a38688094f8cf9095_ngrave.svg",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/64819fc70ac010f9f9763bc2_blocklords.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6674004793f87044c85a0fe4_sonic.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6268fbe94dfe7477d3e5b909_apeiron.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/65d74df83c908f59eb162228_jpeg-optimizer_ultiverse%20(3).png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661cea7f89feebda1994b63e_particle.png",
+            "alt": "",
+            "width": 131,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6399c8b84915a66f5550c611_37x.png",
+            "alt": "品牌标志",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 25,
+            "height": 5
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6501c77b989ca9cdc789fff8_msv_gg_products.png",
+            "alt": "品牌标志",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 25,
+            "height": 5
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/64ad0d4a0958e117a85e8a31_msv_studio_logo.png",
+            "alt": "品牌标志",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 25,
+            "height": 5
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6373afa2312b06ee138c5255_ca%20(2).png",
+            "alt": "品牌标志",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 25,
+            "height": 5
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/673f6206961a1c4e8c47fc3c_ce.png",
+            "alt": "品牌标志",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 25,
+            "height": 5
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/622f1eb1fc363c70dde00576_elrond%20tower%20(1).png",
+            "alt": "埃尔隆德\n",
+            "width": 195,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 36,
+            "height": 7
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+            "alt": "箭头",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "src": "http://127.0.0.1:44122/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/626ba1a0b1cbd15a4fcab634_msv_white.svg",
+            "alt": "",
+            "width": 300,
+            "height": 95
+          }
+        ],
+        "canvases": [
+          {
+            "width": 390,
+            "height": 900,
+            "cssWidth": 390,
+            "cssHeight": 900
+          }
+        ]
+      }
+    }
+  ]
+}

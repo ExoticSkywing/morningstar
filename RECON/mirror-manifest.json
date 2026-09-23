@@ -1,0 +1,2515 @@
+{
+  "source": "https://morningstar.ventures",
+  "generated_at": "2026-08-21T19:35:30Z",
+  "route_count": 117,
+  "asset_count": 219,
+  "query_payload_count": 3,
+  "tracking_hosts_removed": [
+    "analytics.google.com",
+    "google-analytics.com",
+    "googletagmanager.com",
+    "stats.g.doubleclick.net",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "routes": [
+    {
+      "url": "https://morningstar.ventures",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 110342,
+      "output": "site/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/brand",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 34562,
+      "output": "site/brand/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/021gg",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38051,
+      "output": "site/portfolio/021gg/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/aark",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38109,
+      "output": "site/portfolio/aark/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/ait-protocol",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37516,
+      "output": "site/portfolio/ait-protocol/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/ancient8",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 40030,
+      "output": "site/portfolio/ancient8/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/apeiron",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 44090,
+      "output": "site/portfolio/apeiron/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/ashswap",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37464,
+      "output": "site/portfolio/ashswap/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/autolayer",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38357,
+      "output": "site/portfolio/autolayer/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/avalon",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38372,
+      "output": "site/portfolio/avalon/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/axelar",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 41139,
+      "output": "site/portfolio/axelar/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/beoble",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38040,
+      "output": "site/portfolio/beoble/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/biconomy",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 41847,
+      "output": "site/portfolio/biconomy/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/bitscrunch",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 42376,
+      "output": "site/portfolio/bitscrunch/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/blast-royale",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37514,
+      "output": "site/portfolio/blast-royale/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/blocklords",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 41055,
+      "output": "site/portfolio/blocklords/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/breederdao",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39924,
+      "output": "site/portfolio/breederdao/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/bware-labs",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 44115,
+      "output": "site/portfolio/bware-labs/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/cantina-royale",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 44062,
+      "output": "site/portfolio/cantina-royale/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/cethgas",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37501,
+      "output": "site/portfolio/cethgas/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/chainflip",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 42342,
+      "output": "site/portfolio/chainflip/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/chillchat",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39429,
+      "output": "site/portfolio/chillchat/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/coinweb",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37459,
+      "output": "site/portfolio/coinweb/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/coti",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38113,
+      "output": "site/portfolio/coti/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/covalent",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 40055,
+      "output": "site/portfolio/covalent/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/cross-the-ages",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 44169,
+      "output": "site/portfolio/cross-the-ages/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/cryptonews",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37531,
+      "output": "site/portfolio/cryptonews/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/ctrl",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 45397,
+      "output": "site/portfolio/ctrl/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/cudis",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39641,
+      "output": "site/portfolio/cudis/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/defi-money",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38363,
+      "output": "site/portfolio/defi-money/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/deskoin",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37505,
+      "output": "site/portfolio/deskoin/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/domi-online",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 40588,
+      "output": "site/portfolio/domi-online/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/e-money-network",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38425,
+      "output": "site/portfolio/e-money-network/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/ethernal-labs",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37506,
+      "output": "site/portfolio/ethernal-labs/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/ethernity",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 42396,
+      "output": "site/portfolio/ethernity/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/euler",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37489,
+      "output": "site/portfolio/euler/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/exotic-markets",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37495,
+      "output": "site/portfolio/exotic-markets/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/fare-protocol",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38038,
+      "output": "site/portfolio/fare-protocol/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/fusionist",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 40965,
+      "output": "site/portfolio/fusionist/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/gaimin",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39664,
+      "output": "site/portfolio/gaimin/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/gamefi",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38260,
+      "output": "site/portfolio/gamefi/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/gudchain",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37948,
+      "output": "site/portfolio/gudchain/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/gull-network",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38325,
+      "output": "site/portfolio/gull-network/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/gunzilla",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 42839,
+      "output": "site/portfolio/gunzilla/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/hashflow",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37515,
+      "output": "site/portfolio/hashflow/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/hatom",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38033,
+      "output": "site/portfolio/hatom/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/highstreet-market",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 41267,
+      "output": "site/portfolio/highstreet-market/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/holoride",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 41010,
+      "output": "site/portfolio/holoride/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/human-protocol",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37547,
+      "output": "site/portfolio/human-protocol/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/humans-ai",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 42559,
+      "output": "site/portfolio/humans-ai/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/indigg",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38115,
+      "output": "site/portfolio/indigg/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/injective",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 41318,
+      "output": "site/portfolio/injective/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/inspect",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37505,
+      "output": "site/portfolio/inspect/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/itheum",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 44178,
+      "output": "site/portfolio/itheum/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/jambo",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 41211,
+      "output": "site/portfolio/jambo/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/kasu",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37966,
+      "output": "site/portfolio/kasu/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/kattana",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37464,
+      "output": "site/portfolio/kattana/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/kip-protocol",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 41018,
+      "output": "site/portfolio/kip-protocol/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/kollectiv",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38308,
+      "output": "site/portfolio/kollectiv/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/lingo",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38540,
+      "output": "site/portfolio/lingo/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/meria",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37485,
+      "output": "site/portfolio/meria/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/merkle-trade",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38288,
+      "output": "site/portfolio/merkle-trade/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/mixmob",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 40985,
+      "output": "site/portfolio/mixmob/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/moove-protocol",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38116,
+      "output": "site/portfolio/moove-protocol/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/moralis",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39436,
+      "output": "site/portfolio/moralis/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/movement-labs",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39441,
+      "output": "site/portfolio/movement-labs/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/multiversx",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39739,
+      "output": "site/portfolio/multiversx/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/mystiko-network",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38002,
+      "output": "site/portfolio/mystiko-network/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/nexio",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37453,
+      "output": "site/portfolio/nexio/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/ngrave",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 40802,
+      "output": "site/portfolio/ngrave/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/nyan-heroes",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37506,
+      "output": "site/portfolio/nyan-heroes/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/ola-guild-games",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39642,
+      "output": "site/portfolio/ola-guild-games/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/olive",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37451,
+      "output": "site/portfolio/olive/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/omni-network",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39945,
+      "output": "site/portfolio/omni-network/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/op-games",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37472,
+      "output": "site/portfolio/op-games/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/oursong",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37466,
+      "output": "site/portfolio/oursong/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/paraswap",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39908,
+      "output": "site/portfolio/paraswap/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/particle-network",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 41325,
+      "output": "site/portfolio/particle-network/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/pingpong",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39589,
+      "output": "site/portfolio/pingpong/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/pontem-network",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37543,
+      "output": "site/portfolio/pontem-network/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/primex-finance",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37504,
+      "output": "site/portfolio/primex-finance/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/ringfence",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 41276,
+      "output": "site/portfolio/ringfence/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/roy-kombucha",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37523,
+      "output": "site/portfolio/roy-kombucha/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/sharpe",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39697,
+      "output": "site/portfolio/sharpe/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/snackclub",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37487,
+      "output": "site/portfolio/snackclub/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/solana-sim",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39347,
+      "output": "site/portfolio/solana-sim/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/sonic",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 40900,
+      "output": "site/portfolio/sonic/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/stepn",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 40903,
+      "output": "site/portfolio/stepn/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/structure",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37479,
+      "output": "site/portfolio/structure/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/superverse",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37564,
+      "output": "site/portfolio/superverse/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/supra",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39672,
+      "output": "site/portfolio/supra/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/swing-finance",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37497,
+      "output": "site/portfolio/swing-finance/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/ta-da",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 40967,
+      "output": "site/portfolio/ta-da/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/taker-protocol",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37500,
+      "output": "site/portfolio/taker-protocol/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/tap-protocol",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 41044,
+      "output": "site/portfolio/tap-protocol/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/tevaera",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38165,
+      "output": "site/portfolio/tevaera/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/the-defiant",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37492,
+      "output": "site/portfolio/the-defiant/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/treat",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38176,
+      "output": "site/portfolio/treat/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/ultiverse",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38017,
+      "output": "site/portfolio/ultiverse/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/unkjd",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 41006,
+      "output": "site/portfolio/unkjd/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/unstoppable-domains",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37596,
+      "output": "site/portfolio/unstoppable-domains/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/utrust",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38509,
+      "output": "site/portfolio/utrust/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/walken",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39488,
+      "output": "site/portfolio/walken/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/xion",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 41048,
+      "output": "site/portfolio/xion/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/xld-finance",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39498,
+      "output": "site/portfolio/xld-finance/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/xy-finance",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37495,
+      "output": "site/portfolio/xy-finance/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/y8u",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 38439,
+      "output": "site/portfolio/y8u/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/yield-guild-games",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 42273,
+      "output": "site/portfolio/yield-guild-games/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/yoloyolo",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 37460,
+      "output": "site/portfolio/yoloyolo/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/zerolend",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39443,
+      "output": "site/portfolio/zerolend/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/portfolio/zk-link",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39713,
+      "output": "site/portfolio/zk-link/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/products/37xdubai",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 110342,
+      "output": "site/products/37xdubai/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/products/coin-explorers",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 110342,
+      "output": "site/products/coin-explorers/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/products/cryptoatlas",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 110342,
+      "output": "site/products/cryptoatlas/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/products/msv-gg",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 110342,
+      "output": "site/products/msv-gg/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/products/msv-studio",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 110342,
+      "output": "site/products/msv-studio/index.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/test",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 118009,
+      "output": "site/test/index.html",
+      "tracking_blocks_removed": 2
+    }
+  ],
+  "query_payloads": [
+    {
+      "url": "https://morningstar.ventures/?180cd5c2_page=2",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 110895,
+      "output": "site/_queries/180cd5c2_page-2.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/?180cd5c2_page=3",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 108520,
+      "output": "site/_queries/180cd5c2_page-3.html",
+      "tracking_blocks_removed": 2
+    },
+    {
+      "url": "https://morningstar.ventures/?180cd5c2_page=4",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 98280,
+      "output": "site/_queries/180cd5c2_page-4.html",
+      "tracking_blocks_removed": 2
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/itsoffbrand/msv@0.0.3/elrond.glb",
+      "status": 200,
+      "content_type": "model/gltf-binary",
+      "bytes": 374932,
+      "output": "site/vendor/cdn.jsdelivr.net/gh/itsoffbrand/msv@0.0.3/elrond.glb"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/itsoffbrand/msv@0.0.3/morningStar.glb",
+      "status": 200,
+      "content_type": "model/gltf-binary",
+      "bytes": 107544,
+      "output": "site/vendor/cdn.jsdelivr.net/gh/itsoffbrand/msv@0.0.3/morningStar.glb"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/itsoffbrand/msv@0.0.3/sphere.glb",
+      "status": 200,
+      "content_type": "model/gltf-binary",
+      "bytes": 490940,
+      "output": "site/vendor/cdn.jsdelivr.net/gh/itsoffbrand/msv@0.0.3/sphere.glb"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/morningstar-ventures/msv-website/morningStar.glb",
+      "status": 200,
+      "content_type": "model/gltf-binary",
+      "bytes": 107544,
+      "output": "site/vendor/cdn.jsdelivr.net/gh/morningstar-ventures/msv-website/morningStar.glb"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/morningstar-ventures/msv-website/sphere.glb",
+      "status": 200,
+      "content_type": "model/gltf-binary",
+      "bytes": 490940,
+      "output": "site/vendor/cdn.jsdelivr.net/gh/morningstar-ventures/msv-website/sphere.glb"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/morningstar-ventures/msv-website@main/offbrand-morningstar.iife.002b.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 688063,
+      "output": "site/vendor/cdn.jsdelivr.net/gh/morningstar-ventures/msv-website@main/offbrand-morningstar.iife.002b.js"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/morningstar-ventures/msv-website@main/offbrand-morningstar.iife.007b.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 688268,
+      "output": "site/vendor/cdn.jsdelivr.net/gh/morningstar-ventures/msv-website@main/offbrand-morningstar.iife.007b.js"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes-animation@1/animation.esm.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 11724,
+      "output": "site/vendor/cdn.jsdelivr.net/npm/@finsweet/attributes-animation@1/animation.esm.js"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmscore@1/cmscore.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 20297,
+      "output": "site/vendor/cdn.jsdelivr.net/npm/@finsweet/attributes-cmscore@1/cmscore.js"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmsfilter@1/cmsfilter.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 23115,
+      "output": "site/vendor/cdn.jsdelivr.net/npm/@finsweet/attributes-cmsfilter@1/cmsfilter.js"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmsload@1/cmsload.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 18482,
+      "output": "site/vendor/cdn.jsdelivr.net/npm/@finsweet/attributes-cmsload@1/cmsload.js"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6218c0073d37f798f2348ac5_mstar%20twitter2.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3220,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6218c0073d37f798f2348ac5_mstar twitter2.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6218c00e437c9f59b8a144a3_mstar%20telegram2.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2992,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6218c00e437c9f59b8a144a3_mstar telegram2.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6218c014a4c5344fad25e9f8_mstar%20linkedin2.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2001,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6218c014a4c5344fad25e9f8_mstar linkedin2.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6218c01bdee6a4cb37c644f6_mstar%20insta2.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2793,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6218c01bdee6a4cb37c644f6_mstar insta2.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de7ccb706fb4664dd7b3a_axelar.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 13662,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de7ccb706fb4664dd7b3a_axelar.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de7e075dc1ff2035568c0_biconomy.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1889,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de7e075dc1ff2035568c0_biconomy.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de7e6ef4b215ce716e295_bitscrunch.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 9615,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de7e6ef4b215ce716e295_bitscrunch.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de7f9bd85620812ce9936_breederdao.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 14854,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de7f9bd85620812ce9936_breederdao.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de800b84eb91311a6445b_chainflip.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1957,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de800b84eb91311a6445b_chainflip.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de821774d884d81cbcb3c_covalent.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2060,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de821774d884d81cbcb3c_covalent.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de8278c3381ddaeb63296_cryptonews.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 12618,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de8278c3381ddaeb63296_cryptonews.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de869ef4b21bcc916e60b_ethernal.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 5160,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de869ef4b21bcc916e60b_ethernal.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de86f999a5774186a2750_ethernity.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 4090,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de86f999a5774186a2750_ethernity.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de8789204ab93541d9d4e_euler.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1930,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de8789204ab93541d9d4e_euler.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de889bd856285d4cea1a1_exotic.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 3217,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de889bd856285d4cea1a1_exotic.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de897ef4b2101ef16e6ac_hasfhlow.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 4318,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de897ef4b2101ef16e6ac_hasfhlow.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de8a1853bfe40dfb13441_holoride.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 10634,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de8a1853bfe40dfb13441_holoride.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de8a9a9859c09d4969d99_human.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2592,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de8a9a9859c09d4969d99_human.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de8b11fbc49db9da2fb1c_humans.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 7018,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de8b11fbc49db9da2fb1c_humans.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de8c23868800bf5cf8ebf_itheum.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 4232,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de8c23868800bf5cf8ebf_itheum.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de8ee940f1f1bcad8a354_mixmob.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2630,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de8ee940f1f1bcad8a354_mixmob.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de901d9d8c5839049dc0b_moralis.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 5289,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de901d9d8c5839049dc0b_moralis.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de90a38688094f8cf9095_ngrave.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1707,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de90a38688094f8cf9095_ngrave.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de91dc99c63b4ebfeaf58_OPGAMES.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 6836,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de91dc99c63b4ebfeaf58_OPGAMES.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de927c99c636bfbfeafab_paraswap.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 5793,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de927c99c636bfbfeafab_paraswap.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de951ecf4fc61a59c3683_pontem.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 8154,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de951ecf4fc61a59c3683_pontem.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de95ae9df18799c16ac34_primex.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 7230,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de95ae9df18799c16ac34_primex.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de9b4baeeb4102f55228a_defiant.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 3887,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de9b4baeeb4102f55228a_defiant.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de9bcb84eb97165a64da5_unstoppable.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 13052,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de9bcb84eb97165a64da5_unstoppable.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de9d6e9df1898c616af87_xy%20finance.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1814,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de9d6e9df1898c616af87_xy finance.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de9e6898f4f23978b675d_zk%20link.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 7715,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621de9e6898f4f23978b675d_zk link.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621dfc68d6110c7378e57225_YGG-logo-horizontal---bw2.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 24859,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621dfc68d6110c7378e57225_YGG-logo-horizontal---bw2.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621e240067bd3f6199b02dee_mstar%20medium%20fill.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1693,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621e240067bd3f6199b02dee_mstar medium fill.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621e240f72a489c05dd433bb_mstar%20insta%20fill.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1901,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621e240f72a489c05dd433bb_mstar insta fill.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621e241a838dad604d8aa858_mstar%20linkedin%20fill.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1816,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621e241a838dad604d8aa858_mstar linkedin fill.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621e24206bc470703228979c_mstar%20telegram%20fill.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2070,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621e24206bc470703228979c_mstar telegram fill.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621e2426aa233c5924edec24_mstar%20twitter%20fill.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2241,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/621e2426aa233c5924edec24_mstar twitter fill.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/624f9d1001d1c25c12154788_stepn.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 6083,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/624f9d1001d1c25c12154788_stepn.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/624fc8324a5fe4b3199c23a6_indigg.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 11916,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/624fc8324a5fe4b3199c23a6_indigg.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/624ffe797ebbf574b824e0ec_Injective.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1965,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/624ffe797ebbf574b824e0ec_Injective.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/625013901a320ffb2999af77_oursong.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 4571,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/625013901a320ffb2999af77_oursong.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/62501403e4f30adde2caead4_gunzilla.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3734,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/62501403e4f30adde2caead4_gunzilla.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/62501481c3ae570b54266097_coinweb.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 5760,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/62501481c3ae570b54266097_coinweb.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/625387c11b7e72d4c663c269_finance.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 5183,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/625387c11b7e72d4c663c269_finance.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/625817a7497e042ad3280af6_jambo.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 7037,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/625817a7497e042ad3280af6_jambo.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/625818f5e6e1c2e7c9e25f3d_blastroyalebr.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 11517,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/625818f5e6e1c2e7c9e25f3d_blastroyalebr.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6258192ad9e7dcccfba1e4e2_highstreetmarket.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 4749,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6258192ad9e7dcccfba1e4e2_highstreetmarket.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/62581f8ab70b3326191570f9_chillchat.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1618,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/62581f8ab70b3326191570f9_chillchat.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6260b350e019e78e33620b65_kattana.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1943,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6260b350e019e78e33620b65_kattana.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6268fbe94dfe7477d3e5b909_apeiron.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 7480,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6268fbe94dfe7477d3e5b909_apeiron.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6268ff6693645e896215c677_ogg.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 7801,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6268ff6693645e896215c677_ogg.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/626b3880af8cd57bf073d291_deskoin.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3230,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/626b3880af8cd57bf073d291_deskoin.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/626b97d5ca55abe88fcf6800_msv_black.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 4306,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/626b97d5ca55abe88fcf6800_msv_black.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/626b97e8265763f45ccb0426_msv_white.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 4600,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/626b97e8265763f45ccb0426_msv_white.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/626ba77f9e0394467a073239_snackclub.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3635,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/626ba77f9e0394467a073239_snackclub.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/627a19fbc3f7c008274074cf_roy.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 4791,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/627a19fbc3f7c008274074cf_roy.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/62b41f733432796583d9ba8f_walken.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3879,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/62b41f733432796583d9ba8f_walken.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6399c8b84915a66f5550c611_37x.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1011,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6399c8b84915a66f5550c611_37x.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63a57bdbc3a74f724426e90f_yolo.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 18897,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63a57bdbc3a74f724426e90f_yolo.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63a57dbd9267013ed9806b70_ancient8.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 11729,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63a57dbd9267013ed9806b70_ancient8.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63a57fa66ac30088a49375ac_nyan_heroes.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 27975,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63a57fa66ac30088a49375ac_nyan_heroes.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63a5839911e3e346f62186ee_xld_finance.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2484,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63a5839911e3e346f62186ee_xld_finance.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63a58430fa3dbfeee2084789_multiversx.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3834,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63a58430fa3dbfeee2084789_multiversx.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63a5874a7e716e7f836946ac_ashswap.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 14608,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63a5874a7e716e7f836946ac_ashswap.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63b568a6b14a845296803d11_bwarelabs.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 4762,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63b568a6b14a845296803d11_bwarelabs.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63b568f30e058c026c69bf87_cross_the_ages.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 10186,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63b568f30e058c026c69bf87_cross_the_ages.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63b56968652693727e64ad67_structure.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2697,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63b56968652693727e64ad67_structure.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63b6d1321bbb5a8296f9c39d_olive.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 5171,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63b6d1321bbb5a8296f9c39d_olive.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63b6d14f62f4c84415dda8c2_meria.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3127,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63b6d14f62f4c84415dda8c2_meria.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63b827519d23290343726dcf_utrust.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2480,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63b827519d23290343726dcf_utrust.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63e996a8533854386d7827f7_domi.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 15328,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63e996a8533854386d7827f7_domi.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb53ce163d8f8f22fa70f6_Avalon.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 14011,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb53ce163d8f8f22fa70f6_Avalon.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5ca5cc078211e911111d_Jasmine-p-1080.jpg",
+      "status": 200,
+      "content_type": "image/jpg",
+      "bytes": 108565,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5ca5cc078211e911111d_Jasmine-p-1080.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5ca5cc078211e911111d_Jasmine-p-1600.jpg",
+      "status": 200,
+      "content_type": "image/jpg",
+      "bytes": 224797,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5ca5cc078211e911111d_Jasmine-p-1600.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5ca5cc078211e911111d_Jasmine-p-2000.jpg",
+      "status": 200,
+      "content_type": "image/jpg",
+      "bytes": 340753,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5ca5cc078211e911111d_Jasmine-p-2000.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5ca5cc078211e911111d_Jasmine-p-500.jpg",
+      "status": 200,
+      "content_type": "image/jpg",
+      "bytes": 25561,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5ca5cc078211e911111d_Jasmine-p-500.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5ca5cc078211e911111d_Jasmine-p-800.jpg",
+      "status": 200,
+      "content_type": "image/jpg",
+      "bytes": 59697,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5ca5cc078211e911111d_Jasmine-p-800.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5ca5cc078211e911111d_Jasmine.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 886478,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5ca5cc078211e911111d_Jasmine.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5cf5a93dfc2e852c6001_Bruno-p-1080.jpeg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 104758,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5cf5a93dfc2e852c6001_Bruno-p-1080.jpeg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5cf5a93dfc2e852c6001_Bruno-p-1600.jpeg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 261541,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5cf5a93dfc2e852c6001_Bruno-p-1600.jpeg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5cf5a93dfc2e852c6001_Bruno-p-500.jpeg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 22284,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5cf5a93dfc2e852c6001_Bruno-p-500.jpeg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5cf5a93dfc2e852c6001_Bruno-p-800.jpeg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 54114,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5cf5a93dfc2e852c6001_Bruno-p-800.jpeg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5cf5a93dfc2e852c6001_Bruno.jpeg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 553003,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5cf5a93dfc2e852c6001_Bruno.jpeg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5d679ec03412249c588b_Adam-p-1080.jpeg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 74876,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5d679ec03412249c588b_Adam-p-1080.jpeg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5d679ec03412249c588b_Adam-p-1600.jpeg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 189988,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5d679ec03412249c588b_Adam-p-1600.jpeg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5d679ec03412249c588b_Adam-p-500.jpeg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 19021,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5d679ec03412249c588b_Adam-p-500.jpeg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5d679ec03412249c588b_Adam-p-800.jpeg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 41797,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5d679ec03412249c588b_Adam-p-800.jpeg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5d679ec03412249c588b_Adam.jpeg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 620177,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63eb5d679ec03412249c588b_Adam.jpeg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63fde6bfd7c0774303466699_Kevin-p-1080.jpg",
+      "status": 200,
+      "content_type": "image/jpg",
+      "bytes": 73319,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63fde6bfd7c0774303466699_Kevin-p-1080.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63fde6bfd7c0774303466699_Kevin-p-1600.jpg",
+      "status": 200,
+      "content_type": "image/jpg",
+      "bytes": 168242,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63fde6bfd7c0774303466699_Kevin-p-1600.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63fde6bfd7c0774303466699_Kevin-p-500.jpg",
+      "status": 200,
+      "content_type": "image/jpg",
+      "bytes": 18232,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63fde6bfd7c0774303466699_Kevin-p-500.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63fde6bfd7c0774303466699_Kevin-p-800.jpg",
+      "status": 200,
+      "content_type": "image/jpg",
+      "bytes": 40454,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63fde6bfd7c0774303466699_Kevin-p-800.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63fde6bfd7c0774303466699_Kevin.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 213534,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/63fde6bfd7c0774303466699_Kevin.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/646433bd0b210bc1b23f84c5_fusionist.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 5657,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/646433bd0b210bc1b23f84c5_fusionist.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/646574d466358c52410192e9_CR.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 12328,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/646574d466358c52410192e9_CR.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/646574ed5f5d5d6aaf1f2ed7_fare.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1657,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/646574ed5f5d5d6aaf1f2ed7_fare.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/64819fc70ac010f9f9763bc2_blocklords.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 4552,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/64819fc70ac010f9f9763bc2_blocklords.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/64ad0d4a0958e117a85e8a31_msv_studio_logo-p-500.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 8438,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/64ad0d4a0958e117a85e8a31_msv_studio_logo-p-500.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/64ad0d4a0958e117a85e8a31_msv_studio_logo.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 13637,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/64ad0d4a0958e117a85e8a31_msv_studio_logo.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/64b504b2315425ad7cfe3436_omni.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2907,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/64b504b2315425ad7cfe3436_omni.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6501c77b989ca9cdc789fff8_msv_gg_products.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2296,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6501c77b989ca9cdc789fff8_msv_gg_products.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/655b85801ea5b82b1b3fb629_hatom.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 6883,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/655b85801ea5b82b1b3fb629_hatom.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6579d7c5f5ba23ccac26e017_inspect.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2739,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6579d7c5f5ba23ccac26e017_inspect.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6579d900dadb847d58a1d409_ait.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3209,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6579d900dadb847d58a1d409_ait.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6579d97edcd6c8e7fe457e92_gamefi.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2299,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6579d97edcd6c8e7fe457e92_gamefi.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/659e5ba5cff1733efc6d36cb_ta-da.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2928,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/659e5ba5cff1733efc6d36cb_ta-da.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/659eafd96febb36a0560aa8c_ringfence.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 4794,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/659eafd96febb36a0560aa8c_ringfence.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/659eb0de430ede3ab88a8fd5_moove.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3629,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/659eb0de430ede3ab88a8fd5_moove.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/65a943f94efb56fa43a7723f_kasu.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 4856,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/65a943f94efb56fa43a7723f_kasu.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/65d75a137bea744b22bd2c76_zerolend.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3002,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/65d75a137bea744b22bd2c76_zerolend.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/65e93574ab81dc53e9ea6acd_coti.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 16609,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/65e93574ab81dc53e9ea6acd_coti.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/65f2ae071c3bb808861b17a8_unkjd.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1602,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/65f2ae071c3bb808861b17a8_unkjd.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/66165663367f23edb4bb2cd3_gaimin%402x.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 22500,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/66165663367f23edb4bb2cd3_gaimin@2x.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661ce3d085a612bece9111d5_xion.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2480,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661ce3d085a612bece9111d5_xion.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661ce55bd455e91822ab38d3_merkle.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2331,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661ce55bd455e91822ab38d3_merkle.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661ce680ac3a81caad7daa77_mystiko.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3261,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661ce680ac3a81caad7daa77_mystiko.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661cea7f89feebda1994b63e_particle.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 5654,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661cea7f89feebda1994b63e_particle.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661cf6766dfac490a733ca54_tap.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1427,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661cf6766dfac490a733ca54_tap.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661cf812e2978e83d92447ae_e-money.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 7038,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661cf812e2978e83d92447ae_e-money.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661cf92f376d623b1bf88f5f_autolayer.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3825,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661cf92f376d623b1bf88f5f_autolayer.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661cfb800d4906b67ed47984_y8u.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2955,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/661cfb800d4906b67ed47984_y8u.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663b691b35fade93f7b328d7_alex-p-1080.jpg",
+      "status": 200,
+      "content_type": "image/jpg",
+      "bytes": 94070,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663b691b35fade93f7b328d7_alex-p-1080.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663b691b35fade93f7b328d7_alex-p-1600.jpg",
+      "status": 200,
+      "content_type": "image/jpg",
+      "bytes": 206792,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663b691b35fade93f7b328d7_alex-p-1600.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663b691b35fade93f7b328d7_alex-p-2000.jpg",
+      "status": 200,
+      "content_type": "image/jpg",
+      "bytes": 314939,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663b691b35fade93f7b328d7_alex-p-2000.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663b691b35fade93f7b328d7_alex-p-500.jpg",
+      "status": 200,
+      "content_type": "image/jpg",
+      "bytes": 19899,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663b691b35fade93f7b328d7_alex-p-500.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663b691b35fade93f7b328d7_alex-p-800.jpg",
+      "status": 200,
+      "content_type": "image/jpg",
+      "bytes": 49251,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663b691b35fade93f7b328d7_alex-p-800.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663b691b35fade93f7b328d7_alex.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 2669292,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663b691b35fade93f7b328d7_alex.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663ca564e5681882b3125195_aark.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 5334,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663ca564e5681882b3125195_aark.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663ca6e238a4dc89441ee789_tevaera.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3296,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663ca6e238a4dc89441ee789_tevaera.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663ca8384f708d98489a2f11_sharpe.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3371,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663ca8384f708d98489a2f11_sharpe.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663cc577a22ad8b8404ee4cd_Treat.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 7366,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/663cc577a22ad8b8404ee4cd_Treat.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6641c5bca18dacb391a45f5d_gullnetwork.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 11745,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6641c5bca18dacb391a45f5d_gullnetwork.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/665e93ffa4c86223f38d31f5_defi.money.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2865,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/665e93ffa4c86223f38d31f5_defi.money.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/665ec8a639f4109db7f47e94_021.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2633,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/665ec8a639f4109db7f47e94_021.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6674004793f87044c85a0fe4_sonic.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2694,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6674004793f87044c85a0fe4_sonic.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/667402feeb23c815c87fc533_kip.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1393,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/667402feeb23c815c87fc533_kip.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/667575ffc380a944f35a55c1_gud.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 4604,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/667575ffc380a944f35a55c1_gud.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/66acd73745c409f4ed55c712_kollectiv.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 8531,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/66acd73745c409f4ed55c712_kollectiv.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/66b356f2bb672713956c860d_superverse.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3440,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/66b356f2bb672713956c860d_superverse.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/66b36d324cd933691e84da2a_nexio.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 6519,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/66b36d324cd933691e84da2a_nexio.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/66b4a4183bdead9ed5b75e18_taker.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1877,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/66b4a4183bdead9ed5b75e18_taker.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/66e00191c43d21b76be5267f_ctrl.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2135,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/66e00191c43d21b76be5267f_ctrl.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6704deefd2e945e8e4e07927_pingponng.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 7814,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6704deefd2e945e8e4e07927_pingponng.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6704e10479435b4a1a42202a_ethgas.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2155,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6704e10479435b4a1a42202a_ethgas.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6704e2702b7595ee05f6056f_lingo.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1580,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6704e2702b7595ee05f6056f_lingo.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6735efb5b4f69e8a100b4dd3_solana_sim.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 4727,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6735efb5b4f69e8a100b4dd3_solana_sim.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/673f6206961a1c4e8c47fc3c_ce.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2679,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/673f6206961a1c4e8c47fc3c_ce.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67570c7be24456378821cca5_movement.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3245,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67570c7be24456378821cca5_movement.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67570dcf5178052a106bb120_supra.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3530,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67570dcf5178052a106bb120_supra.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6797440297d8ce578db29a2c_cudis.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3950,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/6797440297d8ce578db29a2c_cudis.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f0cc2de96d7ee50588c_jpeg-optimizer_Frame%2033-p-1080.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 555368,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f0cc2de96d7ee50588c_jpeg-optimizer_Frame 33-p-1080.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f0cc2de96d7ee50588c_jpeg-optimizer_Frame%2033-p-1600.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1166350,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f0cc2de96d7ee50588c_jpeg-optimizer_Frame 33-p-1600.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f0cc2de96d7ee50588c_jpeg-optimizer_Frame%2033-p-500.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 117872,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f0cc2de96d7ee50588c_jpeg-optimizer_Frame 33-p-500.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f0cc2de96d7ee50588c_jpeg-optimizer_Frame%2033-p-800.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 305239,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f0cc2de96d7ee50588c_jpeg-optimizer_Frame 33-p-800.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f0cc2de96d7ee50588c_jpeg-optimizer_Frame%2033.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1604980,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f0cc2de96d7ee50588c_jpeg-optimizer_Frame 33.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f1937d29bfbf882b72f_jpeg-optimizer_Frame%2034-p-1080.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 521449,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f1937d29bfbf882b72f_jpeg-optimizer_Frame 34-p-1080.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f1937d29bfbf882b72f_jpeg-optimizer_Frame%2034-p-1600.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1107281,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f1937d29bfbf882b72f_jpeg-optimizer_Frame 34-p-1600.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f1937d29bfbf882b72f_jpeg-optimizer_Frame%2034-p-500.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 108409,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f1937d29bfbf882b72f_jpeg-optimizer_Frame 34-p-500.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f1937d29bfbf882b72f_jpeg-optimizer_Frame%2034-p-800.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 283241,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f1937d29bfbf882b72f_jpeg-optimizer_Frame 34-p-800.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f1937d29bfbf882b72f_jpeg-optimizer_Frame%2034.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1533345,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd766afc83852d/67b59f1937d29bfbf882b72f_jpeg-optimizer_Frame 34.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218b26add781d1acc091b53_morningstar-favicon.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2558,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218b26add781d1acc091b53_morningstar-favicon.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218b271a97939e943bcd154_morningstar-webclip.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 35881,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218b271a97939e943bcd154_morningstar-webclip.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218b388ccd60b6420269dc4_SimplonNorm-Regular.woff2",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "bytes": 20584,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218b388ccd60b6420269dc4_SimplonNorm-Regular.woff2"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218b388dd781d0602092166_Punta%20Light.woff2",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "bytes": 25040,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218b388dd781d0602092166_Punta Light.woff2"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218b388dee6a433afc5e6f5_Punta%20Bold.woff2",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "bytes": 26368,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218b388dee6a433afc5e6f5_Punta Bold.woff2"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar%20arrow.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 472,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6218f670693ffdbc6901e965_mstar arrow.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e19f07809bc4520e3495d_mstar%20twitter2.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3220,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e19f07809bc4520e3495d_mstar twitter2.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e1a1d8445ed02c409262c_mstar%20linkedin2.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2001,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e1a1d8445ed02c409262c_mstar linkedin2.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e1b1f5a0a4d5afe5462ed_mstar%20github.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2344,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e1b1f5a0a4d5afe5462ed_mstar github.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e1c44233cdf615accebd8_mstar%20insta%20fill.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1901,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e1c44233cdf615accebd8_mstar insta fill.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e1c4453ba08482f2a3b40_mstar%20github%20fill.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2002,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e1c4453ba08482f2a3b40_mstar github fill.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e1c445a0a4d01f054692a_mstar%20telegram%20fill.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2070,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e1c445a0a4d01f054692a_mstar telegram fill.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e1c4483d9dc4de706e7f9_mstar%20twitter%20fill.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2241,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e1c4483d9dc4de706e7f9_mstar twitter fill.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e1c448b7a38fad6e95870_mstar%20linkedin%20fill.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1816,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e1c448b7a38fad6e95870_mstar linkedin fill.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e1c449facbe17c44004c9_mstar%20medium%20fill.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1693,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e1c449facbe17c44004c9_mstar medium fill.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e1c44bd36721e92bc66e4_mstar%20discord%20fill.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2434,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621e1c44bd36721e92bc66e4_mstar discord fill.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621f577476f68063d2cc5f7f_circle.json",
+      "status": 200,
+      "content_type": "application/json",
+      "bytes": 1773,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621f577476f68063d2cc5f7f_circle.json"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621f72963728022f08ed5707_mstar%20insta2.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2793,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621f72963728022f08ed5707_mstar insta2.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621f72965ea456e838b4a883_mstar%20discord2.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3761,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621f72965ea456e838b4a883_mstar discord2.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621f7296748b65622f074576_mstar%20medium2.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1992,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621f7296748b65622f074576_mstar medium2.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621f7296ecab8679fd23cd9a_mstar%20telegram2.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2992,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/621f7296ecab8679fd23cd9a_mstar telegram2.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6220b31c1a295fa2c2c64f8d_morningstar1.json",
+      "status": 200,
+      "content_type": "application/json",
+      "bytes": 5401,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6220b31c1a295fa2c2c64f8d_morningstar1.json"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/62223769c69b421f9d45fdb6_reset-black.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 842,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/62223769c69b421f9d45fdb6_reset-black.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/622f0aa335f6a044a561b107_smoke.diffuse.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 554355,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/622f0aa335f6a044a561b107_smoke.diffuse.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/622f0aa3c2f93443ef9b5791_sphere.normal.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 507533,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/622f0aa3c2f93443ef9b5791_sphere.normal.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/622f0aa3c60bb952a1ab3ebd_overlay.dirt.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 17286,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/622f0aa3c60bb952a1ab3ebd_overlay.dirt.jpg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/623c3fedddab81e9b1c4a45e_lottieflow-dropdown-07-2-ffffff-easey.json",
+      "status": 200,
+      "content_type": "application/json",
+      "bytes": 13143,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/623c3fedddab81e9b1c4a45e_lottieflow-dropdown-07-2-ffffff-easey.json"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6246d5686225ead0cb4d20e8_morningstar%20logo%20icon%20large.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 547,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6246d5686225ead0cb4d20e8_morningstar logo icon large.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6246e4c9e2d75bfb6c31b7dd_Group%20124.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 388,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6246e4c9e2d75bfb6c31b7dd_Group 124.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6246e4c9e94a7d88031557d7_Group%20123.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 404,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6246e4c9e94a7d88031557d7_Group 123.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6246e658cb79424d7916df3d_Group%20123fill.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 421,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6246e658cb79424d7916df3d_Group 123fill.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6262aa907d583ebab5b4d61c_search-black.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 976,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6262aa907d583ebab5b4d61c_search-black.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6262abce8507190c4ea7ea6c_search%20square-w.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 775,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/6262abce8507190c4ea7ea6c_search square-w.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/626b99750c53da0e44b5f684_down-arrow-w.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 712,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/626b99750c53da0e44b5f684_down-arrow-w.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/626b997575ee014bf52ed7d7_down-arrow-b.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 858,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/626b997575ee014bf52ed7d7_down-arrow-b.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/626ba1a0b1cbd15a4fcab634_msv_white.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 4600,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/626ba1a0b1cbd15a4fcab634_msv_white.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/63e1fda22140883c13d6ec34_ms-www-fill.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 2822,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/63e1fda22140883c13d6ec34_ms-www-fill.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/63e1fdb6218d43368b5e918f_ms-www-ol.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1902,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/63e1fdb6218d43368b5e918f_ms-www-ol.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/63fc63c01ed0518d71e8e219_msv-ob%20social%20icon%20master_youtube%20white%201.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1226,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/63fc63c01ed0518d71e8e219_msv-ob social icon master_youtube white 1.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/63fc63c04fd0cd13ec72522c_msv-fill-ob%20social%20icon%20master_youtube%20white%202.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1592,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/63fc63c04fd0cd13ec72522c_msv-fill-ob social icon master_youtube white 2.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/css/morningstar-ventures.webflow.shared.47c3f02a7.min.css",
+      "status": 200,
+      "content_type": "text/css",
+      "bytes": 76566,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/css/morningstar-ventures.webflow.shared.47c3f02a7.min.css"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/js/webflow.819d3f41.90322e919fc2b125.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "bytes": 418127,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/js/webflow.819d3f41.90322e919fc2b125.js"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6218b09ec1cd76c58f838521/js/webflow.schunk.f2efb3c5440a81cf.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "bytes": 346962,
+      "output": "site/vendor/cdn.prod.website-files.com/6218b09ec1cd76c58f838521/js/webflow.schunk.f2efb3c5440a81cf.js"
+    },
+    {
+      "url": "https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 11068,
+      "output": "site/vendor/d3e54v103j8qbb.cloudfront.net/img/background-image.svg"
+    },
+    {
+      "url": "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon-d2.89e12c322e.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 421,
+      "output": "site/vendor/d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon-d2.89e12c322e.svg"
+    },
+    {
+      "url": "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-text-d2.c82cec3b78.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 9912,
+      "output": "site/vendor/d3e54v103j8qbb.cloudfront.net/img/webflow-badge-text-d2.c82cec3b78.svg"
+    },
+    {
+      "url": "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6218b09ec1cd76c58f838521",
+      "status": 200,
+      "content_type": "application/javascript",
+      "bytes": 89476,
+      "output": "site/vendor/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js"
+    },
+    {
+      "url": "https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 167,
+      "output": "site/vendor/d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg"
+    }
+  ],
+  "failures": []
+}

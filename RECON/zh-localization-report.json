@@ -1,0 +1,1506 @@
+{
+  "html_files": 120,
+  "source_unique_strings": 606,
+  "translated_unique_strings": 493,
+  "preserved_unique_strings": 113,
+  "dom_changes": 5204,
+  "cache_entries": 345,
+  "preserved_samples": [
+    "email@here.io",
+    "DeFi",
+    "AI",
+    "NFT",
+    "RWA",
+    "dePin",
+    "SocialFi",
+    "MultiversX",
+    "Stepn",
+    "Ethernity",
+    "Fusionist",
+    "Axelar",
+    "Covalent",
+    "Gunzilla Games",
+    "Biconomy",
+    "Moralis",
+    "XION",
+    "Yield Guild Games",
+    "Chainflip",
+    "Injective",
+    "Cross The Ages",
+    "BitsCrunch",
+    "ParaSwap",
+    "Meria",
+    "Hashflow",
+    "Omni Network",
+    "Humans AI",
+    "Merkle Trade",
+    "PINGPONG",
+    "Ngrave",
+    "Blocklords",
+    "Sonic",
+    "Apeiron",
+    "Ultiverse",
+    "Particle Network",
+    "Brand Assets",
+    "SVG",
+    "PNG",
+    "Aark | Morningstar Ventures",
+    "Ancient8 | Morningstar Ventures",
+    "Apeiron | Morningstar Ventures",
+    "AshSwap | Morningstar Ventures",
+    "Autolayer | Morningstar Ventures",
+    "Avalon | Morningstar Ventures",
+    "Axelar | Morningstar Ventures",
+    "Biconomy | Morningstar Ventures",
+    "BitsCrunch | Morningstar Ventures",
+    "Blocklords | Morningstar Ventures",
+    "BreederDAO | Morningstar Ventures",
+    "Chainflip | Morningstar Ventures",
+    "Chillchat | Morningstar Ventures",
+    "Coinweb | Morningstar Ventures",
+    "Coti | Morningstar Ventures",
+    "Covalent | Morningstar Ventures",
+    "Cryptonews | Morningstar Ventures",
+    "Ctrl | Morningstar Ventures",
+    "CUDIS | Morningstar Ventures",
+    "Deskoin | Morningstar Ventures",
+    "Ethernity | Morningstar Ventures",
+    "Euler | Morningstar Ventures",
+    "ICO",
+    "Fusionist | Morningstar Ventures",
+    "Gaimin | Morningstar Ventures",
+    "GameFi | Morningstar Ventures",
+    "Hashflow | Morningstar Ventures",
+    "Hatom | Morningstar Ventures",
+    "Holoride | Morningstar Ventures",
+    "Injective | Morningstar Ventures",
+    "Inspect | Morningstar Ventures",
+    "Itheum | Morningstar Ventures",
+    "Kasu | Morningstar Ventures",
+    "Kattana | Morningstar Ventures",
+    "Kollectiv | Morningstar Ventures",
+    "$KOL",
+    "Lingo | Morningstar Ventures",
+    "Meria | Morningstar Ventures",
+    "Mixmob | Morningstar Ventures",
+    "Moralis | Morningstar Ventures",
+    "MultiversX | Morningstar Ventures",
+    "Nexio | Morningstar Ventures",
+    "Ngrave | Morningstar Ventures",
+    "Olive | Morningstar Ventures",
+    "OurSong | Morningstar Ventures",
+    "ParaSwap | Morningstar Ventures",
+    "PINGPONG | Morningstar Ventures",
+    "Ringfence | Morningstar Ventures",
+    "Sharpe | Morningstar Ventures",
+    "Snackclub | Morningstar Ventures",
+    "Sonic | Morningstar Ventures",
+    "Stepn | Morningstar Ventures",
+    "Structure | Morningstar Ventures",
+    "SuperVerse | Morningstar Ventures",
+    "Supra | Morningstar Ventures",
+    "Ta-da | Morningstar Ventures",
+    "Tevaera | Morningstar Ventures",
+    "Tevaera's",
+    "TREAT | Morningstar Ventures",
+    "Ultiverse | Morningstar Ventures",
+    "Utrust | Morningstar Ventures",
+    "Walken | Morningstar Ventures",
+    "XION | Morningstar Ventures",
+    "YoloYolo | Morningstar Ventures",
+    "ZeroLend | Morningstar Ventures",
+    "Test",
+    "DANILO",
+    "KEVIN",
+    "PETR",
+    "BORISLAV",
+    "JASMINE",
+    "ADAM",
+    "BRUNO",
+    "ALEXANDER",
+    "Elrond Dubai Incubator"
+  ],
+  "remaining_english_top": [
+    {
+      "text": "Twitter 图标",
+      "count": 218
+    },
+    {
+      "text": "Telegram 图标",
+      "count": 218
+    },
+    {
+      "text": "LinkedIn 图标",
+      "count": 218
+    },
+    {
+      "text": "Medium 图标",
+      "count": 218
+    },
+    {
+      "text": "DeFi",
+      "count": 210
+    },
+    {
+      "text": "NFT",
+      "count": 130
+    },
+    {
+      "text": "Morningstar Ventures",
+      "count": 120
+    },
+    {
+      "text": "email@here.io",
+      "count": 120
+    },
+    {
+      "text": "Equity",
+      "count": 50
+    },
+    {
+      "text": "AI",
+      "count": 30
+    },
+    {
+      "text": "DePIN",
+      "count": 30
+    },
+    {
+      "text": "Morningstar Ventures｜支持雄心勃勃的创始人",
+      "count": 27
+    },
+    {
+      "text": "MultiversX",
+      "count": 27
+    },
+    {
+      "text": "Stepn",
+      "count": 27
+    },
+    {
+      "text": "Ethernity",
+      "count": 27
+    },
+    {
+      "text": "Fusionist",
+      "count": 27
+    },
+    {
+      "text": "Axelar",
+      "count": 27
+    },
+    {
+      "text": "Covalent",
+      "count": 27
+    },
+    {
+      "text": "Gunzilla Games",
+      "count": 27
+    },
+    {
+      "text": "zkLink",
+      "count": 27
+    },
+    {
+      "text": "Biconomy",
+      "count": 27
+    },
+    {
+      "text": "Moralis",
+      "count": 27
+    },
+    {
+      "text": "XION",
+      "count": 27
+    },
+    {
+      "text": "Yield Guild Games",
+      "count": 27
+    },
+    {
+      "text": "Chainflip",
+      "count": 27
+    },
+    {
+      "text": "jambo",
+      "count": 27
+    },
+    {
+      "text": "Injective",
+      "count": 27
+    },
+    {
+      "text": "Cross The Ages",
+      "count": 27
+    },
+    {
+      "text": "BitsCrunch",
+      "count": 27
+    },
+    {
+      "text": "ParaSwap",
+      "count": 27
+    },
+    {
+      "text": "Meria",
+      "count": 27
+    },
+    {
+      "text": "Hashflow",
+      "count": 27
+    },
+    {
+      "text": "Omni Network",
+      "count": 27
+    },
+    {
+      "text": "Humans AI",
+      "count": 27
+    },
+    {
+      "text": "Merkle Trade",
+      "count": 27
+    },
+    {
+      "text": "PINGPONG",
+      "count": 27
+    },
+    {
+      "text": "Ngrave",
+      "count": 27
+    },
+    {
+      "text": "Blocklords",
+      "count": 27
+    },
+    {
+      "text": "Sonic",
+      "count": 27
+    },
+    {
+      "text": "Apeiron",
+      "count": 27
+    },
+    {
+      "text": "Ultiverse",
+      "count": 27
+    },
+    {
+      "text": "Particle Network",
+      "count": 27
+    },
+    {
+      "text": "sec1",
+      "count": 10
+    },
+    {
+      "text": "BTC 生态",
+      "count": 10
+    },
+    {
+      "text": "RWA",
+      "count": 10
+    },
+    {
+      "text": "Launchpad",
+      "count": 10
+    },
+    {
+      "text": "SocialFi",
+      "count": 10
+    },
+    {
+      "text": "37x 是迪拜市中心的 Web3 地标空间，汇聚创始人、投资者与创作者。",
+      "count": 10
+    },
+    {
+      "text": "MSV GG 是一个邀请制 Web3 专家社区，致力于支持并投资早期项目。",
+      "count": 10
+    },
+    {
+      "text": "MSV STUDIO 是由 Morningstar Ventures 运营的内部开发、设计、战略与营销团队。",
+      "count": 10
+    },
+    {
+      "text": "Crypto Atlas 是一个加密项目发现平台，帮助你掌握最新动态并探索项目洞察。",
+      "count": 10
+    },
+    {
+      "text": "Coin Explorers 提供最新加密项目的新闻与洞察。",
+      "count": 10
+    },
+    {
+      "text": "Token / Equity",
+      "count": 9
+    },
+    {
+      "text": "Morningstar Ventures 团队遍布全球，主要位于迪拜。在创始人兼 CEO Danilo S. Carlucci 的带领下，团队汇集了来自技术、营销、增长战略、设计与 UI/UX 等领域的资深专业人士。",
+      "count": 9
+    },
+    {
+      "text": "我们不仅是投资者，也是建设者，自成立以来已经建立了多个附属项目，例如我们的Web3 空间和总部37xDubai、我们的咨询公司MSV Studio、我们的软件平台Atlas Technologies和我们的行会MSV GG。",
+      "count": 9
+    },
+    {
+      "text": "我们定期举办 Web3 技术活动，让加密爱好者、投资者与建设者相聚。37xDubai 是位于迪拜市中心的独特创意空间。查看活动日历并报名参加即将举行的活动。",
+      "count": 9
+    },
+    {
+      "text": "Brand Assets",
+      "count": 4
+    },
+    {
+      "text": "一个协议层，支持点对点租赁 ERC-721 不可替代代币 (NFT)，同时还产生利息收益。",
+      "count": 4
+    },
+    {
+      "text": "Aark 是一款 1000 倍永续合约DEX，旨在通过利用 LRT 资产增强永续交易者的流动性，彻底改变DeFi领域。",
+      "count": 4
+    },
+    {
+      "text": "Ancient8管理着越南最大的区块链游戏公会，通过区块链软件产品、公会奖学金、区块链教育、机构级研究和社区，让每个人都能构建元宇宙。",
+      "count": 4
+    },
+    {
+      "text": "Apeiron 将是世界上第一个使用NFT构建的边玩边赚钱的上帝游戏。 Apeiron 的 Godiverse 是元宇宙的一部分，玩家扮演 Godlings - 新生的神。",
+      "count": 4
+    },
+    {
+      "text": "Arbitrum上的 LRTfi 集线器，它与EigenLayer生态系统内的接口。它提供一键式流动性重新抵押和抵押，以及其他DeFi策略和激励措施。",
+      "count": 4
+    },
+    {
+      "text": "Axelar 为Web3提供安全的跨链通信。我们的基础设施使dApp 用户能够一键与任何链上的任何资产或应用程序进行交互。",
+      "count": 4
+    },
+    {
+      "text": "beoble 是一个革命性的Web3社交平台，旨在增强去中心化的钱包到钱包的通信。",
+      "count": 4
+    },
+    {
+      "text": "Biconomy 是一家为下一代Web3应用程序构建多链交易基础设施的技术公司。通过 Biconomy 功能强大且易于使用的API，开发人员可以实现简单且定制的用户旅程，这样他们的最终用户就不会因区块链的复杂性而感到沮丧。",
+      "count": 4
+    },
+    {
+      "text": "BitsCrunch 是一家全球领先的数据分析公司，专注于NFT和数字资产的多链洞察。",
+      "count": 4
+    },
+    {
+      "text": "BLOCKLORDS 是一款Play to Own Web3 游戏。这是一款基于Immutable X和Polygon构建的中世纪MMO大战略游戏。",
+      "count": 4
+    },
+    {
+      "text": "BreederDAO是区块链游戏NFT的资产工厂。我们为 Metaverse 中一些最大的公会提供按规格定制的大批量资产生产，以便他们能够增强其play-to-earn经济。",
+      "count": 4
+    },
+    {
+      "text": "A 轮",
+      "count": 4
+    },
+    {
+      "text": "Bware Labs 旨在通过提供业界最高性能和最可靠的基础设施服务和开发工具来应对Web3挑战并促进全球采用。",
+      "count": 4
+    },
+    {
+      "text": "Cantina Royale 是一款战术街机射击游戏，具有多种游戏模式和易于使用的区块链优势。基于MultiversX构建并由 Verko 提供支持。",
+      "count": 4
+    },
+    {
+      "text": "Chainflip 是一个跨链AMM，无需包装代币或专门的钱包即可实现原生资产交换。",
+      "count": 4
+    },
+    {
+      "text": "Ethereum上的以隐私为中心的Layer 2采用突破性的隐私技术构建，快速、安全，并且可以在任何设备上运行。",
+      "count": 4
+    },
+    {
+      "text": "Covalent 是一种去中心化的数据基础设施，使用户能够无缝访问否则无法访问的区块链数据。虽然区块链数据是公开的，但查询它非常耗时、计算密集型，并且需要技术技能。",
+      "count": 4
+    },
+    {
+      "text": "《Cross The Ages》是一款免费游戏，背景设定在幻想与科幻小说交汇的反乌托邦世界中。该游戏基于七本免费阅读小说。",
+      "count": 4
+    },
+    {
+      "text": "该平台将AI 与Web3 技术与Solana驱动的智能戒指集成在一起，提供个性化的健康见解和安全、去中心化的数据所有权。",
+      "count": 4
+    },
+    {
+      "text": "与EVM无关的CDP协议，结合 Curve Finance 创新清算机制（称为LLAMMA），构建资本高效、可扩展且真正可互操作的USD稳定币。",
+      "count": 4
+    },
+    {
+      "text": "Domi Online 成立于 2021 年，组建了包括 David Edgecombe（前 Jagex、RuneScape）和 Bret Dunham（前 Vicarious Visions，现 Activision/Blizzard）在内的资深开发团队，打造了一个没有等级上限、技能上限的MMORPG，让最强的玩家和公会真正称霸服务器，因此得名 DOMI Online。",
+      "count": 4
+    },
+    {
+      "text": "世界上第一个符合MiCA标准的模块化区块链。它作为L1区块链，旨在实现DeFi2.0 和RWA代币化之间的无缝互操作性。",
+      "count": 4
+    },
+    {
+      "text": "FARE 生态系统建立在概率智能合约之上，由基于概率变量的透明链上事件触发。",
+      "count": 4
+    },
+    {
+      "text": "游戏开发者在其游戏中构建NFT、区块链功能和白标游戏代币的基础层。",
+      "count": 4
+    },
+    {
+      "text": "GullNetwork 通过直观的智能合约和 dApp 工具简化了代币化和DeFi参与，简化了代币发行、流动性获取和AMM设置。",
+      "count": 4
+    },
+    {
+      "text": "Gunzilla Games 是一家游戏开发商，致力于创新、打破技术界限并创造玩家永远铭记的下一代游戏体验。",
+      "count": 4
+    },
+    {
+      "text": "Hatom 是一种用于借贷资产的去中心化算法协议，在Elrond网络上运行。",
+      "count": 4
+    },
+    {
+      "text": "Highstreet 将零售与游戏融为一体，为多元元宇宙中的元生活方式和新体验铺平了道路。",
+      "count": 4
+    },
+    {
+      "text": "holoride 通过将导航和汽车数据与XR相结合，将日常旅程转变为超沉浸式体验。",
+      "count": 4
+    },
+    {
+      "text": "以心驱动的人工智能。 Humans.ai 正在创建一个基于AI的创作和区块链治理的一体化平台。",
+      "count": 4
+    },
+    {
+      "text": "IndiGG 是Web3前沿中基于play-to-earn的NFT 游戏。 IndiGG 是 YGG 的印度次权力下放自治组织（subDAO）。",
+      "count": 4
+    },
+    {
+      "text": "Injective Protocol (INJ) 是一种去中心化交易所 (DEX) 协议，提供跨链保证金交易、衍生品、外汇 (FX)、合成品和期货交易等高级功能。",
+      "count": 4
+    },
+    {
+      "text": "Itheum 是世界上第一个去中心化、跨链数据经纪平台 · 构建Web2应用程序，生成结构化和高价值的个人数据和见解。",
+      "count": 4
+    },
+    {
+      "text": "Jambo 充当非洲与世界各地寻求进入非洲市场的应用程序之间的桥梁。我们正在建立渠道，将非洲用户与世界各地的Web3生态系统连接起来。",
+      "count": 4
+    },
+    {
+      "text": "一个连接DeFi流动性提供商和现实世界收益提供商的去中心化平台。",
+      "count": 4
+    },
+    {
+      "text": "去中心化的AI框架正在AI驱动的未来解锁知识资产的数字产权。",
+      "count": 4
+    },
+    {
+      "text": "Lingo 是第一个将现实世界资产、游戏化和加密文化结合起来以增强社区奖励的代币。其RWA投资组合由 Lingo 的控股公司基金会管理，并与社区DAO合作选择投资",
+      "count": 4
+    },
+    {
+      "text": "MIXMOB 是一种由Solana提供支持的加密游戏体验，由play-to-earn和位于其游戏循环核心的创作者经济构建。",
+      "count": 4
+    },
+    {
+      "text": "Moralis 强大的Web3 API弥补了Web2和Web3之间的开发差距。",
+      "count": 4
+    },
+    {
+      "text": "下一代区块链网络，为Ethereum上最快、最安全的第二层提供动力。",
+      "count": 4
+    },
+    {
+      "text": "MultiversX（以前称为Elrond）是一个高度可扩展、安全和去中心化的区块链，为用户和企业培育新的应用程序。",
+      "count": 4
+    },
+    {
+      "text": "Web3的基础层使区块链更具可扩展性、可互操作性和保密性。",
+      "count": 4
+    },
+    {
+      "text": "Ola GG 是主要 Yield Guild Games (YGG)DAO 的subDAO，专注于为世界各地的西班牙语玩家提供服务。",
+      "count": 4
+    },
+    {
+      "text": "Omni 是第 1 层区块链，使开发人员能够跨所有汇总构建应用程序，而不会分散流动性。使用 Omni，开发人员可以构建可在所有汇总中使用的全局应用程序。",
+      "count": 4
+    },
+    {
+      "text": "领先的DeFi聚合器将去中心化交易所和借贷协议的流动性整合到一个全面且安全的界面和API中，为交易者和dApps提供最优惠的价格。",
+      "count": 4
+    },
+    {
+      "text": "这是一个突破性的项目，旨在通过为开发者和用户提供无缝入门、钱包集成和NFT 市场创建来彻底改变区块链领域。",
+      "count": 4
+    },
+    {
+      "text": "PINGPONG 想要做的不仅仅是优化DePIN项目的产量。它希望最大化我们的收入并让它们发挥作用。",
+      "count": 4
+    },
+    {
+      "text": "Ringfence 是第一个致力于确保Web3和 Generative AI有利于创作者的平台。目前，法院正在努力解决如何将知识产权法适用于生成AI。",
+      "count": 4
+    },
+    {
+      "text": "Sharpe 是一款由AI驱动的加密超级应用程序，专为专业交易者设计，为智能、投资和自动化数字资产提供统一平台。",
+      "count": 4
+    },
+    {
+      "text": "面向Web3数字游牧民族和全球旅行者的终极移动网络解决方案。",
+      "count": 4
+    },
+    {
+      "text": "Solana上的第一条原子SVM链。通过HyperGrid为Solana游戏多元宇宙提供主权经济动力。",
+      "count": 4
+    },
+    {
+      "text": "在 STEPN，您的步数比您想象的更有价值 - 现在，任何人都可以随时随地锻炼和户外活动来赚取代币。",
+      "count": 4
+    },
+    {
+      "text": "世界上性能最高、完全垂直整合的L1区块链，它将改变一切。",
+      "count": 4
+    },
+    {
+      "text": "Ta-da 围绕您的需求组织大量用户：以合理的价格提供高质量的数据，并采用符合道德的“人人参与”流程。",
+      "count": 4
+    },
+    {
+      "text": "该协议允许在Bitcoin上进行安全且可访问的开发，并具有前所未有的可编程灵活性。",
+      "count": 4
+    },
+    {
+      "text": "TREAT 是引入柴犬生态系统的新代币。它将有多种用途，其中之一是为 $SHI 稳定币提供流动性。",
+      "count": 4
+    },
+    {
+      "text": "一款将 AAA 社交游戏、NFT、DeFi和DEX集于一体的综合平台。",
+      "count": 4
+    },
+    {
+      "text": "第一个版本是一系列名为 UNKJD Soccer 的回合制体育游戏，这是一款快速且令人上瘾的策略体育游戏。",
+      "count": 4
+    },
+    {
+      "text": "Utrust 是一种支付方式，允许您使用您选择的加密货币支付航班费用。 Utrust 支持所有主要加密货币，包括Bitcoin、Ethereum、Dash 等。 Utrust 不需要登录。",
+      "count": 4
+    },
+    {
+      "text": "Walken 是一款Web3步行应用程序，可将日常身体活动（步行和跑步）游戏化，让坚持更健康的生活方式变得轻松有趣。",
+      "count": 4
+    },
+    {
+      "text": "XLD是一个无边界的去中心化生态系统，为新兴经济体提供金融服务。",
+      "count": 4
+    },
+    {
+      "text": "建立在 Humans 区块链之上的原生去中心化协议，将内容可寻址存储与基于智能合约的同意区块链相结合，将内容可寻址存储与基于智能合约的同意管理相结合。",
+      "count": 4
+    },
+    {
+      "text": "ZeroLend 是一种用户友好且无摩擦的借贷体验，让大众能够使用DeFi。基于L2构建。",
+      "count": 4
+    },
+    {
+      "text": "使用 zk-SNARKS 保护的统一多链交易基础设施，为下一代去中心化交易产品提供支持，例如订单簿DEX、NFT 市场等。",
+      "count": 4
+    },
+    {
+      "text": "我们是一家专注于数字资产和区块链技术的自营投资公司，主要关注Elrond生态系统。",
+      "count": 3
+    },
+    {
+      "text": "021 gg |Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Aark | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "AIT Protocol|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Ancient8 | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Apeiron | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "圆桌会议：“培养下一代Web3 游戏玩家”",
+      "count": 3
+    },
+    {
+      "text": "AshSwap | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Autolayer | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Avalon | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Avalon是Danu Games开发的一款基于区块链的奇幻MMORPG，融合了《刺客信条》等游戏元素和《命运》的团队建设精神。",
+      "count": 3
+    },
+    {
+      "text": "Axelar | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "beoble|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Biconomy | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "BitsCrunch | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Blast Royale|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Blocklords | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "BreederDAO | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Bware Labs|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Cantina Royale|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "cEthGas|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Chainflip | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Chillchat | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Chillchat 具有功能齐全的像素编辑器，用于创建以下NFT：角色、图块集、宠物、表情和艺术。",
+      "count": 3
+    },
+    {
+      "text": "Coinweb | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Coti | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Covalent | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Cross The Ages|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Cryptonews | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Ctrl | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "CUDIS | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "DeFi Money|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Deskoin | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Domi Online|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "E Money Network|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Ethernal Labs|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Ethernity | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Euler | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Exotic 市场|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Fare Protocol|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Fusionist | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Gaimin | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "圆桌会议：“构建可扩展的Web3基础设施解决方案”",
+      "count": 3
+    },
+    {
+      "text": "GameFi | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "gudchain|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Gull Network|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Gunzilla Games|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Hashflow | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Hatom | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Highstreet 市场|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Holoride | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Human Protocol|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Humans AI|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "indiGG|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Injective | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Inspect | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Itheum | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "jambo|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Kasu | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Kattana | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "KIP Protocol|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Kollectiv | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "为 $KOL 持有者提供的门户网站，具有独特的奖励机制和游戏化基础设施，以激励金融教育和社区参与。",
+      "count": 3
+    },
+    {
+      "text": "Lingo | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Meria | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Merkle Trade|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Mixmob | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Moove Protocol|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Moralis | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Movement Labs|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "MultiversX | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Mystiko Network|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Nexio | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Ngrave | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Nyan Heroes|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Ola Guild Games|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Olive | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Omni Network|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "OP Games|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "OurSong | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "ParaSwap | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Particle Network|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "PINGPONG | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Pontem Network|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Primex Finance|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Ringfence | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Roy Kombucha|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Sharpe | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Snackclub | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Solana SIM|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Sonic | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Stepn | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Structure | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "SuperVerse | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Supra | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Swing Finance|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Ta-da | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Taker Protocol|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Tap Protocol|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Tevaera | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Tevaera 的基础设施通过安全、去中心化和可扩展的生态系统解决了链上游戏的集成问题。",
+      "count": 3
+    },
+    {
+      "text": "The Defiant|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "TREAT | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Ultiverse | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "unkjd|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Unstoppable Domains|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Utrust | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Walken | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "XION | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "XLD Finance|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "XY Finance|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "y8u|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Yield Guild Games|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "YoloYolo | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "ZeroLend | Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "zkLink|Morningstar Ventures",
+      "count": 3
+    },
+    {
+      "text": "Test",
+      "count": 3
+    },
+    {
+      "text": "SVG",
+      "count": 2
+    },
+    {
+      "text": "PNG",
+      "count": 2
+    },
+    {
+      "text": "专访：James Zhang（联合创始人兼 CEO）",
+      "count": 2
+    },
+    {
+      "text": "圆桌会议：“深入探讨NFT实用程序”",
+      "count": 2
+    },
+    {
+      "text": "圆桌会议：“Web3 Gaming的新崛起”",
+      "count": 2
+    },
+    {
+      "text": "EGLD 专访：Nils Wollny（联合创始人兼 CEO）",
+      "count": 2
+    },
+    {
+      "text": "圆桌会议：“将世界转变为DeFi”",
+      "count": 2
+    },
+    {
+      "text": "Pre-Seed 轮",
+      "count": 2
+    },
+    {
+      "text": "圆桌会议：“DePIN——去中心化的未来",
+      "count": 2
+    },
+    {
+      "text": "DANILO",
+      "count": 2
+    },
+    {
+      "text": "KEVIN",
+      "count": 2
+    },
+    {
+      "text": "PETR",
+      "count": 2
+    },
+    {
+      "text": "BORISLAV",
+      "count": 2
+    },
+    {
+      "text": "JASMINE",
+      "count": 2
+    },
+    {
+      "text": "ADAM",
+      "count": 2
+    },
+    {
+      "text": "BRUNO",
+      "count": 2
+    },
+    {
+      "text": "ALEXANDER",
+      "count": 2
+    },
+    {
+      "text": "圆桌会议：“Web3 在发展中国家的采用”",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：Apeiron",
+      "count": 1
+    },
+    {
+      "text": "创始人故事：Frank Cheng（联合创始人）",
+      "count": 1
+    },
+    {
+      "text": "Avalon是Danu Games开发的一款基于区块链的奇幻MMORPG，融合了《刺客信条》等游戏元素和《命运》的团队建设精神。Avalon具有风格化、手工制作和绘画的环境，由艺术家们创造，他们花了数年时间完善世界的复杂细节。",
+      "count": 1
+    },
+    {
+      "text": "创始人故事：Sergey Gorbunov（联合创始人）",
+      "count": 1
+    },
+    {
+      "text": "专访：Aniket Jindal（联合创始人）",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：bitsCrunch",
+      "count": 1
+    },
+    {
+      "text": "专访：Vijay Pravin（创始人）",
+      "count": 1
+    },
+    {
+      "text": "创始人故事：David Johansson（创始人）",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：BreederDao",
+      "count": 1
+    },
+    {
+      "text": "专访：Flavian Manea（CEO）",
+      "count": 1
+    },
+    {
+      "text": "EGLD 专访：Flavian Manea（联合创始人）",
+      "count": 1
+    },
+    {
+      "text": "项目评审：Bware",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：Cantina Royale",
+      "count": 1
+    },
+    {
+      "text": "圆桌会议：“GameFi在MultiversX生态系统中的未来”",
+      "count": 1
+    },
+    {
+      "text": "EGLD 播客 - 采访：Radu（运营副总裁）和 Daniel（COO）",
+      "count": 1
+    },
+    {
+      "text": "EGLD 专访：Radu Armaziu（运营副总裁）",
+      "count": 1
+    },
+    {
+      "text": "专访：Simon Harman（CEO）",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：Chainflip",
+      "count": 1
+    },
+    {
+      "text": "创始人故事：James Au（创始人）",
+      "count": 1
+    },
+    {
+      "text": "专访：Ganesh Swami（CEO）",
+      "count": 1
+    },
+    {
+      "text": "创始人故事：Chlagou Sami（联合创始人兼 CEO）",
+      "count": 1
+    },
+    {
+      "text": "专访：Sami Chlagou（CEO）",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：Cross The Ages",
+      "count": 1
+    },
+    {
+      "text": "专访：Emile Dubié（联合创始人）",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：XDEFI钱包",
+      "count": 1
+    },
+    {
+      "text": "创始人故事：Emile Dubié（联合创始人）",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：CUDIS",
+      "count": 1
+    },
+    {
+      "text": "创始人故事：Per Fredrik(CEO) 和 Harley Swann (COO)",
+      "count": 1
+    },
+    {
+      "text": "创始人故事：Nick Rose（创始人）",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：Ethernity",
+      "count": 1
+    },
+    {
+      "text": "ICO",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：Fusionist",
+      "count": 1
+    },
+    {
+      "text": "专访：Ike T.（CEO）",
+      "count": 1
+    },
+    {
+      "text": "专访：Vlad Korolev（联合创始人兼 CEO）",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：Gunzilla Games",
+      "count": 1
+    },
+    {
+      "text": "创始人故事：Travis Wu（创始人）",
+      "count": 1
+    },
+    {
+      "text": "圆桌会议：“NFT与元界空间的品牌合作”",
+      "count": 1
+    },
+    {
+      "text": "创始人故事：Sabin Dima（联合创始人兼 CEO）",
+      "count": 1
+    },
+    {
+      "text": "专访：Sabin Dima（联合创始人）",
+      "count": 1
+    },
+    {
+      "text": "圆桌会议：“AI 在加密货币领域的角色”",
+      "count": 1
+    },
+    {
+      "text": "专访：Eric Chen（联合创始人兼 CEO）",
+      "count": 1
+    },
+    {
+      "text": "公告：Elrond迪拜孵化器支持的首个项目",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：Itheum",
+      "count": 1
+    },
+    {
+      "text": "EGLD专访：Mark和Praveen Paul（联合创始人）",
+      "count": 1
+    },
+    {
+      "text": "创始人故事：Mark Paul和Praveen Paul（联合创始人）",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：Jambo",
+      "count": 1
+    },
+    {
+      "text": "创始人故事：Julian（创始人）",
+      "count": 1
+    },
+    {
+      "text": "$KOL",
+      "count": 1
+    },
+    {
+      "text": "创始人故事：Pavel Bains（执行制片人）",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：MixMob",
+      "count": 1
+    },
+    {
+      "text": "专访：Ivan On Tech（创始人）",
+      "count": 1
+    },
+    {
+      "text": "专访：Rushi Manche（联合创始人）",
+      "count": 1
+    },
+    {
+      "text": "专访：Beniamin Mincu（创始人）",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：Ngrave",
+      "count": 1
+    },
+    {
+      "text": "圆桌会议：“公会在Web3生态系统中的重要性”",
+      "count": 1
+    },
+    {
+      "text": "专访：Ethan（创始人）",
+      "count": 1
+    },
+    {
+      "text": "专访：Whitney Gibbs（创始人）",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：Ringfence",
+      "count": 1
+    },
+    {
+      "text": "创始人故事：Rishabh（联合创始人）",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：Sonic",
+      "count": 1
+    },
+    {
+      "text": "专访：Yawn Rong（联合创始人）",
+      "count": 1
+    },
+    {
+      "text": "创始人故事：Yawn Rong（联合创始人）",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：Ta-da",
+      "count": 1
+    },
+    {
+      "text": "专访：William Simonin（CEO）",
+      "count": 1
+    },
+    {
+      "text": "创始人故事：Benny（创始人）",
+      "count": 1
+    },
+    {
+      "text": "圆桌会议：“发展Bitcoin生态系统”",
+      "count": 1
+    },
+    {
+      "text": "Seed 与 Private 轮",
+      "count": 1
+    },
+    {
+      "text": "Tevaera's",
+      "count": 1
+    },
+    {
+      "text": "专访：Shahaf Bar Geffen（主席）",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：Walken",
+      "count": 1
+    },
+    {
+      "text": "项目回顾：XION",
+      "count": 1
+    },
+    {
+      "text": "专访：Burnt Banksy（联合创始人）",
+      "count": 1
+    },
+    {
+      "text": "圆桌会议：“DeFi- 引领金融的未来”",
+      "count": 1
+    },
+    {
+      "text": "YGG 是一个Play-To-Earn公会，将玩家聚集在一起通过NFT 游戏赚钱。我们是虚拟宇宙的定居者。",
+      "count": 1
+    },
+    {
+      "text": "专访：Gabby Dizon（联合创始人）",
+      "count": 1
+    },
+    {
+      "text": "创始人故事：Gabby Dizon（联合创始人）",
+      "count": 1
+    },
+    {
+      "text": "创始人故事：Ryker（创始人）",
+      "count": 1
+    },
+    {
+      "text": "专访：Vince Yang（创始人）",
+      "count": 1
+    },
+    {
+      "text": "Morningstar Ventures使命宣言在这里出现并产生巨大影响。句号。",
+      "count": 1
+    },
+    {
+      "text": "连续创业者，Web3早期投资人，曾就职于Google/Youtube。",
+      "count": 1
+    },
+    {
+      "text": "创始人兼 CEO",
+      "count": 1
+    },
+    {
+      "text": "经验丰富的中东和北非地区销售主管，曾就职于 Henley & Partners。",
+      "count": 1
+    },
+    {
+      "text": "经验丰富的Web3营销人员和增长黑客。",
+      "count": 1
+    },
+    {
+      "text": "经验丰富的团队领导者，曾在 Celonis & Deloitte Ventures 任职。",
+      "count": 1
+    },
+    {
+      "text": "经验丰富的运营主管，曾在 Google/YouTube工作。",
+      "count": 1
+    },
+    {
+      "text": "Elrond Dubai Incubator",
+      "count": 1
+    },
+    {
+      "text": "今天我们很高兴向您介绍Itheum，世界上第一个“开放元宇宙”数据平台，旨在将个人数据转化为可交易资产。",
+      "count": 1
+    },
+    {
+      "text": "Itheum 是我们在 10 月份宣布的Elrond迪拜孵化器中推出的第一个项目。我们非常高兴能够领导 Itheum 的 150 万美元种子轮融资并帮助该团队在Elrond区块链上构建他们的项目。",
+      "count": 1
+    },
+    {
+      "text": "对Morningstar Ventures感兴趣？",
+      "count": 1
+    }
+  ],
+  "digest": "37fc97e070c1a7919ea190545c7e9d6bebd885e0298896cd6dff7bddfccb3631"
+}

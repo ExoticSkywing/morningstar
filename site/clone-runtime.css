@@ -1,0 +1,93 @@
+
+/* Chinese localization typography and the editorial Hero layer. */
+:lang(zh-CN) body {
+  font-family: "Simplon", "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+}
+:lang(zh-CN) .hero_h1,
+:lang(zh-CN) .body_heading,
+:lang(zh-CN) .cta_heading,
+:lang(zh-CN) .btn_txt,
+:lang(zh-CN) .hero_text--wrap,
+:lang(zh-CN) .nav_content,
+:lang(zh-CN) .w-form-done,
+:lang(zh-CN) .w-form-fail {
+  font-family: "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+}
+:lang(zh-CN) .body_heading,
+:lang(zh-CN) .cta_heading {
+  line-height: 1.22;
+}
+:lang(zh-CN) .hero_h1 {
+  max-width: 12em;
+  text-wrap: balance;
+  white-space: normal;
+  word-break: keep-all;
+  overflow-wrap: normal;
+}
+:lang(zh-CN) .hero_text--wrap {
+  position: relative;
+  z-index: 3;
+}
+:lang(zh-CN) .hero_poem_wrap {
+  position: relative;
+  z-index: 2;
+  margin-top: 1.1rem;
+  overflow: visible;
+}
+:lang(zh-CN) .hero_poem {
+  position: relative;
+  isolation: isolate;
+  max-width: 26rem;
+  margin: 0 auto;
+  padding: .3rem .8rem;
+  color: rgba(255,255,255,.88);
+  font-family: "Punta", "Punta Light", "Iowan Old Style", "Baskerville", Georgia, serif;
+  font-size: clamp(.95rem, 1.25vw, 1.3rem);
+  font-weight: 300;
+  font-style: italic;
+  line-height: 1.2;
+  letter-spacing: .04em;
+  text-align: center;
+  text-wrap: balance;
+  text-shadow: 0 .15em 1.25em rgba(117,148,255,.34);
+}
+:lang(zh-CN) .hero_poem::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: 50%;
+  background: radial-gradient(ellipse at center, rgba(5,8,18,.58) 0%, rgba(5,8,18,.24) 58%, transparent 84%);
+}
+:lang(zh-CN) .hero_poem::after {
+  content: "“  ”";
+  position: absolute;
+  inset: -.2em 0;
+  z-index: -1;
+  color: rgba(119,161,255,.78);
+  font-family: Georgia, serif;
+  font-size: 1.35em;
+  font-style: normal;
+  line-height: 1;
+  pointer-events: none;
+}
+@media (max-width: 479px) {
+  :lang(zh-CN) .hero_h1 {
+    font-size: 2rem;
+    line-height: 1.16;
+    max-width: 100%;
+  }
+  :lang(zh-CN) .hero_poem {
+    max-width: 19rem;
+    font-size: .92rem;
+    letter-spacing: .02em;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}

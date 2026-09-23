@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Generated browser QA, screenshots, route captures, and build logs.
+RECON/qa*/
+RECON/editorial-visual*/
+RECON/home-editorial-qa*/
+RECON/interactions-clone/
+RECON/routes-clone/
+RECON/routes-zh/
+RECON/screenshots/
+RECON/*.log
+
+# Temporary mirror working tree.
+mirror-base/

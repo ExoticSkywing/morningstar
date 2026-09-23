@@ -1,0 +1,875 @@
+{
+  "advisory": true,
+  "candidates_checked": 325,
+  "missing": [
+    {
+      "file": "_queries/180cd5c2_page-2.html",
+      "value": "Backing Ambitious Founders"
+    },
+    {
+      "file": "_queries/180cd5c2_page-2.html",
+      "value": "Dubai. Check"
+    },
+    {
+      "file": "_queries/180cd5c2_page-2.html",
+      "value": "Dubai. Under"
+    },
+    {
+      "file": "_queries/180cd5c2_page-2.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "_queries/180cd5c2_page-3.html",
+      "value": "Backing Ambitious Founders"
+    },
+    {
+      "file": "_queries/180cd5c2_page-3.html",
+      "value": "Dubai. Check"
+    },
+    {
+      "file": "_queries/180cd5c2_page-3.html",
+      "value": "Dubai. Under"
+    },
+    {
+      "file": "_queries/180cd5c2_page-3.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "_queries/180cd5c2_page-4.html",
+      "value": "Backing Ambitious Founders"
+    },
+    {
+      "file": "_queries/180cd5c2_page-4.html",
+      "value": "Dubai. Check"
+    },
+    {
+      "file": "_queries/180cd5c2_page-4.html",
+      "value": "Dubai. Under"
+    },
+    {
+      "file": "_queries/180cd5c2_page-4.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "brand/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "index.html",
+      "value": "Backing Ambitious Founders"
+    },
+    {
+      "file": "index.html",
+      "value": "Dubai. Check"
+    },
+    {
+      "file": "index.html",
+      "value": "Dubai. Under"
+    },
+    {
+      "file": "index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/021gg/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/aark/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/ait-protocol/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/ancient8/index.html",
+      "value": "Developing Countries"
+    },
+    {
+      "file": "portfolio/ancient8/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/ancient8/index.html",
+      "value": "Web3 Adoption"
+    },
+    {
+      "file": "portfolio/apeiron/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/apeiron/index.html",
+      "value": "NFTs. Apeiron"
+    },
+    {
+      "file": "portfolio/apeiron/index.html",
+      "value": "Onboarding The Next Generation Of Web3"
+    },
+    {
+      "file": "portfolio/ashswap/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/autolayer/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/autolayer/index.html",
+      "value": "One-Click Liquid Restaking"
+    },
+    {
+      "file": "portfolio/avalon/index.html",
+      "value": "Assassin's Creed"
+    },
+    {
+      "file": "portfolio/avalon/index.html",
+      "value": "Destiny. Avalon"
+    },
+    {
+      "file": "portfolio/avalon/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/axelar/index.html",
+      "value": "Building In The Bear Market"
+    },
+    {
+      "file": "portfolio/axelar/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/axelar/index.html",
+      "value": "Web3. Our"
+    },
+    {
+      "file": "portfolio/beoble/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/biconomy/index.html",
+      "value": "Crypto Infrastructure"
+    },
+    {
+      "file": "portfolio/biconomy/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/biconomy/index.html",
+      "value": "The Future Of The Internet"
+    },
+    {
+      "file": "portfolio/biconomy/index.html",
+      "value": "Through Biconomy's"
+    },
+    {
+      "file": "portfolio/bitscrunch/index.html",
+      "value": "Deep Dive Into NFT Utilities"
+    },
+    {
+      "file": "portfolio/bitscrunch/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/blast-royale/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/blocklords/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/blocklords/index.html",
+      "value": "Onboarding The Next Generation Of Web3"
+    },
+    {
+      "file": "portfolio/breederdao/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/bware-labs/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/bware-labs/index.html",
+      "value": "Market Cycle"
+    },
+    {
+      "file": "portfolio/bware-labs/index.html",
+      "value": "More Interview"
+    },
+    {
+      "file": "portfolio/bware-labs/index.html",
+      "value": "Where Are We"
+    },
+    {
+      "file": "portfolio/cantina-royale/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/cantina-royale/index.html",
+      "value": "VP Operation"
+    },
+    {
+      "file": "portfolio/cethgas/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/chainflip/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/chainflip/index.html",
+      "value": "Market Cycle"
+    },
+    {
+      "file": "portfolio/chainflip/index.html",
+      "value": "Where Are We"
+    },
+    {
+      "file": "portfolio/chillchat/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/coinweb/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/coti/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/coti/index.html",
+      "value": "Privacy Centric Layer"
+    },
+    {
+      "file": "portfolio/covalent/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/cross-the-ages/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/cross-the-ages/index.html",
+      "value": "The New Rise"
+    },
+    {
+      "file": "portfolio/cryptonews/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/ctrl/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/ctrl/index.html",
+      "value": "Market Outlook"
+    },
+    {
+      "file": "portfolio/ctrl/index.html",
+      "value": "Maximizing Crypto Safety In"
+    },
+    {
+      "file": "portfolio/cudis/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/defi-money/index.html",
+      "value": "EVM-agnostic CDP"
+    },
+    {
+      "file": "portfolio/defi-money/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/deskoin/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/domi-online/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/domi-online/index.html",
+      "value": "Former Jagex"
+    },
+    {
+      "file": "portfolio/domi-online/index.html",
+      "value": "Former Vicarious Visions"
+    },
+    {
+      "file": "portfolio/e-money-network/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/ethernal-labs/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/ethernity/index.html",
+      "value": "Deep Dive Into NFT Utilities"
+    },
+    {
+      "file": "portfolio/ethernity/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/euler/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/exotic-markets/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/exotic-markets/index.html",
+      "value": "Exotic Market"
+    },
+    {
+      "file": "portfolio/fare-protocol/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/fusionist/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/gaimin/index.html",
+      "value": "Building Scalable Web3 Infrastructure Solutions"
+    },
+    {
+      "file": "portfolio/gaimin/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/gamefi/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/gudchain/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/gull-network/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/gunzilla/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/gunzilla/index.html",
+      "value": "The New Rise"
+    },
+    {
+      "file": "portfolio/hashflow/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/hatom/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/highstreet-market/index.html",
+      "value": "Brand Collaboration In The NFT And"
+    },
+    {
+      "file": "portfolio/highstreet-market/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/highstreet-market/index.html",
+      "value": "Highstreet Market"
+    },
+    {
+      "file": "portfolio/highstreet-market/index.html",
+      "value": "Metaverse Space"
+    },
+    {
+      "file": "portfolio/holoride/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/human-protocol/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/humans-ai/index.html",
+      "value": "Artificial Intelligence. Humans.ai"
+    },
+    {
+      "file": "portfolio/humans-ai/index.html",
+      "value": "Crypto Space"
+    },
+    {
+      "file": "portfolio/humans-ai/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/humans-ai/index.html",
+      "value": "The Role Of AI In The"
+    },
+    {
+      "file": "portfolio/indigg/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/injective/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/inspect/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/itheum/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/itheum/index.html",
+      "value": "The First Project Supported By The"
+    },
+    {
+      "file": "portfolio/jambo/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/kasu/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/kattana/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/kip-protocol/index.html",
+      "value": "Building Scalable Web3 Infrastructure Solutions"
+    },
+    {
+      "file": "portfolio/kip-protocol/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/kip-protocol/index.html",
+      "value": "Knowledge Assets"
+    },
+    {
+      "file": "portfolio/kollectiv/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/lingo/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/lingo/index.html",
+      "value": "Its RWA"
+    },
+    {
+      "file": "portfolio/lingo/index.html",
+      "value": "Real-World Assets"
+    },
+    {
+      "file": "portfolio/meria/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/merkle-trade/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/mixmob/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/mixmob/index.html",
+      "value": "Executive Producer"
+    },
+    {
+      "file": "portfolio/moove-protocol/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/moralis/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/movement-labs/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/multiversx/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/mystiko-network/index.html",
+      "value": "Base Layer Of Web3 Making Blockchains"
+    },
+    {
+      "file": "portfolio/mystiko-network/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/mystiko-network/index.html",
+      "value": "More Scalable"
+    },
+    {
+      "file": "portfolio/nexio/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/ngrave/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/ngrave/index.html",
+      "value": "Maximizing Crypto Safety In"
+    },
+    {
+      "file": "portfolio/nyan-heroes/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/ola-guild-games/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/ola-guild-games/index.html",
+      "value": "The Importance"
+    },
+    {
+      "file": "portfolio/ola-guild-games/index.html",
+      "value": "Web3 Ecosystem"
+    },
+    {
+      "file": "portfolio/olive/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/omni-network/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/omni-network/index.html",
+      "value": "Month Outlook"
+    },
+    {
+      "file": "portfolio/omni-network/index.html",
+      "value": "On The Horizon"
+    },
+    {
+      "file": "portfolio/omni-network/index.html",
+      "value": "Using Omni"
+    },
+    {
+      "file": "portfolio/op-games/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/oursong/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/paraswap/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/particle-network/index.html",
+      "value": "Building Scalable Web3 Infrastructure Solutions"
+    },
+    {
+      "file": "portfolio/particle-network/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/pingpong/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/pontem-network/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/primex-finance/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/ringfence/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/roy-kombucha/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/sharpe/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/snackclub/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/solana-sim/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/solana-sim/index.html",
+      "value": "Web3 Digital Nomads"
+    },
+    {
+      "file": "portfolio/sonic/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/sonic/index.html",
+      "value": "First Atomic SVM Chain"
+    },
+    {
+      "file": "portfolio/sonic/index.html",
+      "value": "Gaming Industry"
+    },
+    {
+      "file": "portfolio/sonic/index.html",
+      "value": "How Blockchain Is Transforming"
+    },
+    {
+      "file": "portfolio/sonic/index.html",
+      "value": "Solana Gaming Multiverse"
+    },
+    {
+      "file": "portfolio/sonic/index.html",
+      "value": "Solana. Powering Sovereign Economies"
+    },
+    {
+      "file": "portfolio/stepn/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/structure/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/superverse/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/supra/index.html",
+      "value": "Building The Future Of The Internet"
+    },
+    {
+      "file": "portfolio/supra/index.html",
+      "value": "Crypto Infrastructure"
+    },
+    {
+      "file": "portfolio/supra/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/swing-finance/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/ta-da/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/ta-da/index.html",
+      "value": "Human In The Loop"
+    },
+    {
+      "file": "portfolio/taker-protocol/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/tap-protocol/index.html",
+      "value": "Bitcoin Ecosystem"
+    },
+    {
+      "file": "portfolio/tap-protocol/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/tevaera/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/the-defiant/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/treat/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/treat/index.html",
+      "value": "Shiba Inu Ecosystem. It"
+    },
+    {
+      "file": "portfolio/ultiverse/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/unkjd/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/unkjd/index.html",
+      "value": "Onboarding The Next Generation Of Web3"
+    },
+    {
+      "file": "portfolio/unstoppable-domains/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/utrust/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/walken/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/xion/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/xld-finance/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/xld-finance/index.html",
+      "value": "Navigating The Future Of Finance"
+    },
+    {
+      "file": "portfolio/xy-finance/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/y8u/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/yield-guild-games/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/yield-guild-games/index.html",
+      "value": "Market Outlook"
+    },
+    {
+      "file": "portfolio/yoloyolo/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/zerolend/index.html",
+      "value": "Defi. Built"
+    },
+    {
+      "file": "portfolio/zerolend/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "portfolio/zk-link/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "products/37xdubai/index.html",
+      "value": "Backing Ambitious Founders"
+    },
+    {
+      "file": "products/37xdubai/index.html",
+      "value": "Dubai. Check"
+    },
+    {
+      "file": "products/37xdubai/index.html",
+      "value": "Dubai. Under"
+    },
+    {
+      "file": "products/37xdubai/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "products/coin-explorers/index.html",
+      "value": "Backing Ambitious Founders"
+    },
+    {
+      "file": "products/coin-explorers/index.html",
+      "value": "Dubai. Check"
+    },
+    {
+      "file": "products/coin-explorers/index.html",
+      "value": "Dubai. Under"
+    },
+    {
+      "file": "products/coin-explorers/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "products/cryptoatlas/index.html",
+      "value": "Backing Ambitious Founders"
+    },
+    {
+      "file": "products/cryptoatlas/index.html",
+      "value": "Dubai. Check"
+    },
+    {
+      "file": "products/cryptoatlas/index.html",
+      "value": "Dubai. Under"
+    },
+    {
+      "file": "products/cryptoatlas/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "products/msv-gg/index.html",
+      "value": "Backing Ambitious Founders"
+    },
+    {
+      "file": "products/msv-gg/index.html",
+      "value": "Dubai. Check"
+    },
+    {
+      "file": "products/msv-gg/index.html",
+      "value": "Dubai. Under"
+    },
+    {
+      "file": "products/msv-gg/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "products/msv-studio/index.html",
+      "value": "Backing Ambitious Founders"
+    },
+    {
+      "file": "products/msv-studio/index.html",
+      "value": "Dubai. Check"
+    },
+    {
+      "file": "products/msv-studio/index.html",
+      "value": "Dubai. Under"
+    },
+    {
+      "file": "products/msv-studio/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "test/index.html",
+      "value": "Deloitte Ventures.BORISLAVHead"
+    },
+    {
+      "file": "test/index.html",
+      "value": "Error. Try"
+    },
+    {
+      "file": "test/index.html",
+      "value": "October. We"
+    },
+    {
+      "file": "test/index.html",
+      "value": "Open Metaverse"
+    }
+  ],
+  "missing_count": 217
+}

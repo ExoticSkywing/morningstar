@@ -1,0 +1,26 @@
+{
+  "original": {
+    "width": 390,
+    "height": 10493
+  },
+  "clone": {
+    "width": 390,
+    "height": 10493
+  },
+  "comparedCanvas": {
+    "width": 390,
+    "height": 10493
+  },
+  "threshold": 0.08,
+  "changedPixels": 86341,
+  "totalPixels": 4092270,
+  "diffPixelRatio": 0.021098558990486942,
+  "meanAbsDiff": 0.004651999798572804,
+  "rmse": 0.021235960543430566,
+  "visualScore": 4.5,
+  "files": {
+    "original": "/root/.hermes/profiles/frontend/home/projects/website-clones/morningstar/RECON/screenshots/original-390.png",
+    "clone": "/root/.hermes/profiles/frontend/home/projects/website-clones/morningstar/RECON/screenshots/clone-390.png",
+    "diff": "/root/.hermes/profiles/frontend/home/projects/website-clones/morningstar/RECON/screenshots/visual-diff-390.png"
+  }
+}
